@@ -24,7 +24,7 @@ visibility full
 
 
 track G0_Nucl_rep1_2_plus_L006_sorted
-bigDataUrlhttps://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw?raw=true
+bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw?raw=true
 shortLabel G0_Nucl_plus_L006
 LongLabel G0_Nucl_rep1_2_plus_L006_sorted
 type bigWig
