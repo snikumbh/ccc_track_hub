@@ -3,4 +3,4 @@ shortLabel cell cycle CAGE
 longLabel Cell cycle Cap Analysis of Gene expression data
 genomesFile genomes.txt
 email waw21@ic.ac.uk
-descriptionUrl
+descriptionUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/README.md
