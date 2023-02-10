@@ -1,6 +1,6 @@
 track G0_Nucl_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel G0_Nucl_rep1_1_minus_L005_sorted
+shortLabel G0_Nucl_minus_L005
 LongLabel G0_Nucl_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -8,7 +8,7 @@ visibility full
 
 track G0_Nucl_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel G0_Nucl_rep1_1_plus_L005_sorted
+shortLabel G0_Nucl_plus_L005
 LongLabel G0_Nucl_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -16,7 +16,7 @@ visitility full
 
 track G0_Nucl_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel G0_Nucl_rep1_2_minus_L006_sorted
+shortLabel G0_Nucl_minus_L006
 LongLabel G0_Nucl_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -25,7 +25,7 @@ visibility full
 
 track G0_Nucl_rep1_2_plus_L006_sorted
 bigDataUrlhttps://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel G0_Nucl_rep1_2_plus_L006_sorted
+shortLabel G0_Nucl_plus_L006
 LongLabel G0_Nucl_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -33,7 +33,7 @@ visibility full
 
 track G0_Nucl_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel G0_Nucl_rep2_1_minus_L007_sorted
+shortLabel G0_Nucl_minus_L007
 LongLabel G0_Nucl_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -41,7 +41,7 @@ visibility full
 
 track G0_Nucl_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel G0_Nucl_rep2_1_plus_L007_sorted
+shortLabel G0_Nucl_plus_L007
 LongLabel G0_Nucl_rep2_1_plus_L007_sorted
 type bigWig
 color 255,0,0
@@ -49,7 +49,7 @@ visibility full
 
 track G0_Nucl_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel G0_Nucl_rep2_2_minus_L008_sorted
+shortLabel G0_Nucl_minus_L008
 LongLabel G0_Nucl_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -57,7 +57,7 @@ visibility full
 
 track G0_Nucl_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Nucl_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel G0_Nucl_rep2_2_plus_L008_sorted
+shortLabel G0_Nucl_plus_L008
 LongLabel G0_Nucl_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
@@ -65,7 +65,7 @@ visibility full
 
 track G0_Tot_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel G0_Tot_rep1_1_minus_L005_sorted
+shortLabel G0_Tot_minus_L005
 LongLabel G0_Tot_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -73,7 +73,7 @@ visibility full
 
 track G0_Tot_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel G0_Tot_rep1_1_plus_L005_sorted
+shortLabel G0_Tot_plus_L005
 LongLabel G0_Tot_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -81,7 +81,7 @@ visibility full
 
 track G0_Tot_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel G0_Tot_rep1_2_minus_L006_sorted
+shortLabel G0_Tot_minus_L006
 LongLabel G0_Tot_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -89,7 +89,7 @@ visibility full
 
 track G0_Tot_rep1_2_plus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel G0_Tot_rep1_2_plus_L006_sorted
+shortLabel G0_Tot_plus_L006
 LongLabel G0_Tot_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -97,7 +97,7 @@ visibility full
 
 track G0_Tot_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel G0_Tot_rep2_1_minus_L007_sorted
+shortLabel G0_Tot_minus_L007
 LongLabel G0_Tot_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -105,7 +105,7 @@ visibility full
 
 track G0_Tot_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel G0_Tot_rep2_1_plus_L007_sorted
+shortLabel G0_Tot_plus_L007
 LongLabel G0_Tot_rep2_1_plus_L007_sorted
 type bigWig
 color 255,0,0
@@ -113,7 +113,7 @@ visibility full
 
 track G0_Tot_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel G0_Tot_rep2_2_minus_L008_sorted
+shortLabel G0_Tot_minus_L008
 LongLabel G0_Tot_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -121,7 +121,7 @@ visibility full
 
 track G0_Tot_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G0_Tot_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel G0_Tot_rep2_2_plus_L008_sorted
+shortLabel G0_Tot_plus_L008
 LongLabel G0_Tot_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
@@ -129,7 +129,7 @@ visibility full
 
 track G1_Nucl_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel G1_Nucl_rep1_1_minus_L005_sorted
+shortLabel G1_Nucl_minus_L005
 LongLabel G1_Nucl_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -138,7 +138,7 @@ visibility full
 
 track G1_Nucl_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel G1_Nucl_rep1_1_plus_L005_sorted
+shortLabel G1_Nucl_plus_L005
 LongLabel G1_Nucl_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -146,7 +146,7 @@ visibility full
 
 track G1_Nucl_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel G1_Nucl_rep1_2_minus_L006_sorted
+shortLabel G1_Nucl_minus_L006
 LongLabel G1_Nucl_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -154,7 +154,7 @@ visibility full
 
 track G1_Nucl_rep1_2_plus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel G1_Nucl_rep1_2_plus_L006_sorted
+shortLabel G1_Nucl_plus_L006
 LongLabel G1_Nucl_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -162,7 +162,7 @@ visibility full
 
 track G1_Nucl_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel G1_Nucl_rep2_1_minus_L007_sorted
+shortLabel G1_Nucl_minus_L007
 LongLabel G1_Nucl_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -170,7 +170,7 @@ visibility full
 
 track G1_Nucl_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel G1_Nucl_rep2_1_plus_L007_sorted
+shortLabel G1_Nucl_plus_L007
 LongLabel G1_Nucl_rep2_1_plus_L007_sorted
 type bigWig
 color 255,0,0
@@ -178,7 +178,7 @@ visibility full
 
 track G1_Nucl_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel G1_Nucl_rep2_2_minus_L008_sorted
+shortLabel G1_Nucl_minus_L008
 LongLabel G1_Nucl_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -186,7 +186,7 @@ visibility full
 
 track G1_Nucl_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Nucl_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel G1_Nucl_rep2_2_plus_L008_sorted
+shortLabel G1_Nucl_plus_L008
 LongLabel G1_Nucl_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
@@ -194,7 +194,7 @@ visibility full
 
 track G1_Tot_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel G1_Tot_rep1_1_minus_L005_sorted
+shortLabel G1_Tot_minus_L005
 LongLabel G1_Tot_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -202,7 +202,7 @@ visibility full
 
 track G1_Tot_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel G1_Tot_rep1_1_plus_L005_sorted
+shortLabel G1_Tot_plus_L005
 LongLabel G1_Tot_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -210,7 +210,7 @@ visibility full
 
 track G1_Tot_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel G1_Tot_rep1_2_minus_L006_sorted
+shortLabel G1_Tot_minus_L006
 LongLabel G1_Tot_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -218,7 +218,7 @@ visibility full
 
 track G1_Tot_rep1_2_plus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel G1_Tot_rep1_2_plus_L006_sorted
+shortLabel G1_Tot_plus_L006
 LongLabel G1_Tot_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -226,7 +226,7 @@ visibility full
 
 track G1_Tot_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel G1_Tot_rep2_1_minus_L007_sorted
+shortLabel G1_Tot_minus_L007
 LongLabel G1_Tot_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -234,7 +234,7 @@ visiblity full
 
 track G1_Tot_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel G1_Tot_rep2_1_plus_L007_sorted
+shortLabel G1_Tot_plus_L007
 LongLabel G1_Tot_rep2_1_plus_L007_sorted
 type bigWig
 color 255,0,0
@@ -242,7 +242,7 @@ visibility full
 
 track G1_Tot_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel G1_Tot_rep2_2_minus_L008_sorted
+shortLabel G1_Tot_minus_L008
 LongLabel G1_Tot_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -250,7 +250,7 @@ visibility full
 
 track G1_Tot_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G1_Tot_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel G1_Tot_rep2_2_plus_L008_sorted
+shortLabel G1_Tot_plus_L008
 LongLabel G1_Tot_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
@@ -258,7 +258,7 @@ visibility full
 
 track G2_Nucl_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel G2_Nucl_rep1_1_minus_L005_sorted
+shortLabel G2_Nucl_minus_L005
 LongLabel G2_Nucl_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -266,7 +266,7 @@ visibility full
 
 track G2_Nucl_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel G2_Nucl_rep1_1_plus_L005_sorted
+shortLabel G2_Nucl_plus_L005
 LongLabel G2_Nucl_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -274,7 +274,7 @@ visibility full
 
 track G2_Nucl_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel G2_Nucl_rep1_2_minus_L006_sorted
+shortLabel G2_Nucl_minus_L006
 LongLabel G2_Nucl_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -282,7 +282,7 @@ visibility full
 
 track G2_Nucl_rep1_2_plus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel G2_Nucl_rep1_2_plus_L006_sorted
+shortLabel G2_Nucl_plus_L006
 LongLabel G2_Nucl_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -290,7 +290,7 @@ visibility full
 
 track G2_Nucl_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel G2_Nucl_rep2_1_minus_L007_sorted
+shortLabel G2_Nucl_minus_L007
 LongLabel G2_Nucl_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -298,7 +298,7 @@ visiblity full
 
 trackG2_Nucl_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel G2_Nucl_rep2_1_plus_L007_sorted
+shortLabel G2_Nucl_plus_L007
 LongLabel G2_Nucl_rep2_1_plus_L007_sorted
 type bigWig
 color 255,0,0
@@ -306,7 +306,7 @@ visibility full
 
 track G2_Nucl_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel G2_Nucl_rep2_2_minus_L008_sorted
+shortLabel G2_Nucl_minus_L008
 LongLabel G2_Nucl_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -314,7 +314,7 @@ visibility full
 
 track G2_Nucl_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Nucl_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel G2_Nucl_rep2_2_plus_L008_sorted
+shortLabel G2_Nucl_plus_L008
 LongLabel G2_Nucl_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
@@ -322,7 +322,7 @@ visiblity full
 
 track G2_Tot_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel G2_Tot_rep1_1_minus_L005_sorted
+shortLabel G2_Tot_minus_L005
 LongLabel G2_Tot_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -330,7 +330,7 @@ visibility full
 
 track G2_Tot_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel G2_Tot_rep1_1_plus_L005_sorted
+shortLabel G2_Tot_plus_L005
 LongLabel G2_Tot_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -338,7 +338,7 @@ visibility full
 
 track G2_Tot_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel G2_Tot_rep1_2_minus_L006_sorted
+shortLabel G2_Tot_minus_L006
 LongLabel G2_Tot_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -346,7 +346,7 @@ visibility full
 
 track G2_Tot_rep1_2_plus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel G2_Tot_rep1_2_plus_L006_sorted
+shortLabel G2_Tot_plus_L006
 LongLabel G2_Tot_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -354,7 +354,7 @@ visibility full
 
 track G2_Tot_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel G2_Tot_rep2_1_minus_L007_sorted
+shortLabel G2_Tot_minus_L007
 LongLabel G2_Tot_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -362,7 +362,7 @@ visibility full
 
 track G2_Tot_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel G2_Tot_rep2_1_plus_L007_sorted
+shortLabel G2_Tot_plus_L007
 LongLabel G2_Tot_rep2_1_plus_L007_sorted
 type bigWig
 color 255,0,0
@@ -370,7 +370,7 @@ visibility full
 
 track G2_Tot_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel G2_Tot_rep2_2_minus_L008_sorted
+shortLabel G2_Tot_minus_L008
 LongLabel G2_Tot_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -378,7 +378,7 @@ visibility full
 
 track G2_Tot_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/G2_Tot_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel G2_Tot_rep2_2_plus_L008_sorted
+shortLabel G2_Tot_plus_L008
 LongLabel G2_Tot_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
@@ -386,7 +386,7 @@ visibility full
 
 track S_Nucl_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel S_Nucl_rep1_1_minus_L005_sorted
+shortLabel S_Nucl_minus_L005
 LongLabel S_Nucl_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -394,7 +394,7 @@ visibility full
 
 track S_Nucl_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel S_Nucl_rep1_1_plus_L005_sorted
+shortLabel S_Nucl_plus_L005
 LongLabel S_Nucl_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -402,7 +402,7 @@ visibility full
 
 track S_Nucl_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel S_Nucl_rep1_2_minus_L006_sorted
+shortLabel S_Nucl_minus_L006
 LongLabel S_Nucl_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -410,7 +410,7 @@ visibility full
 
 track S_Nucl_rep1_2_plus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel S_Nucl_rep1_2_plus_L006_sorted
+shortLabel S_Nucl_plus_L006
 LongLabel S_Nucl_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -418,7 +418,7 @@ visibility full
 
 track S_Nucl_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel S_Nucl_rep2_1_minus_L007_sorted
+shortLabel S_Nucl_minus_L007
 LongLabel S_Nucl_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -426,7 +426,7 @@ visibility full
 
 track S_Nucl_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel S_Nucl_rep2_1_plus_L007_sorted
+shortLabel S_Nucl_plus_L007
 LongLabel S_Nucl_rep2_1_plus_L007_sorted
 type bigWig 
 color 255,0,0
@@ -434,7 +434,7 @@ visibility full
 
 track S_Nucl_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel S_Nucl_rep2_2_minus_L008_sorted
+shortLabel S_Nucl_minus_L008
 LongLabel S_Nucl_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -442,7 +442,7 @@ visibility full
 
 track S_Nucl_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Nucl_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel S_Nucl_rep2_2_plus_L008_sorted
+shortLabel S_Nucl_plus_L008
 LongLabel S_Nucl_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
@@ -450,7 +450,7 @@ visibility full
 
 track S_Tot_rep1_1_minus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep1_1_minus_L005_sorted.bw?raw=true
-shortLabel S_Tot_rep1_1_minus_L005_sorted
+shortLabel S_Tot_minus_L005
 LongLabel S_Tot_rep1_1_minus_L005_sorted
 type bigWig
 color 0,0,255
@@ -458,7 +458,7 @@ visibility full
 
 track S_Tot_rep1_1_plus_L005_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep1_1_plus_L005_sorted.bw?raw=true
-shortLabel S_Tot_rep1_1_plus_L005_sorted
+shortLabel S_Tot_plus_L005
 LongLabel S_Tot_rep1_1_plus_L005_sorted
 type bigWig
 color 255,0,0
@@ -466,7 +466,7 @@ visibility full
 
 track S_Tot_rep1_2_minus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep1_2_minus_L006_sorted.bw?raw=true
-shortLabel S_Tot_rep1_2_minus_L006_sorted
+shortLabel S_Tot_minus_L006
 LongLabel S_Tot_rep1_2_minus_L006_sorted
 type bigWig
 color 0,0,255
@@ -474,7 +474,7 @@ visibility full
 
 track S_Tot_rep1_2_plus_L006_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep1_2_plus_L006_sorted.bw?raw=true
-shortLabel S_Tot_rep1_2_plus_L006_sorted
+shortLabel S_Tot_plus_L006
 LongLabel S_Tot_rep1_2_plus_L006_sorted
 type bigWig
 color 255,0,0
@@ -482,7 +482,7 @@ visibility full
 
 track S_Tot_rep2_1_minus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep2_1_minus_L007_sorted.bw?raw=true
-shortLabel S_Tot_rep2_1_minus_L007_sorted
+shortLabel S_Tot_minus_L007
 LongLabel S_Tot_rep2_1_minus_L007_sorted
 type bigWig
 color 0,0,255
@@ -490,7 +490,7 @@ visibility full
 
 track S_Tot_rep2_1_plus_L007_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep2_1_plus_L007_sorted.bw?raw=true
-shortLabel S_Tot_rep2_1_plus_L007_sorted
+shortLabel S_Tot_plus_L007
 LongLabel S_Tot_rep2_1_plus_L007_sorted
 type bigWig
 color 255,0,0
@@ -498,7 +498,7 @@ visibility full
 
 track S_Tot_rep2_2_minus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep2_2_minus_L008_sorted.bw?raw=true
-shortLabel S_Tot_rep2_2_minus_L008_sorted
+shortLabel S_Tot_minus_L008
 LongLabel S_Tot_rep2_2_minus_L008_sorted
 type bigWig
 color 0,0,255
@@ -506,7 +506,7 @@ visibility full
 
 track S_Tot_rep2_2_plus_L008_sorted
 bigDataUrl https://github.com/wwhittick/ccc_track_hub/blob/main/hg38/S_Tot_rep2_2_plus_L008_sorted.bw?raw=true
-shortLabel S_Tot_rep2_2_plus_L008_sorted
+shortLabel S_Tot_plus_L008
 LongLabel S_Tot_rep2_2_plus_L008_sorted
 type bigWig
 color 255,0,0
