@@ -4,8 +4,8 @@ longLabel Cell Cycle CAGE
 type bigWig
 visibility full
 priority 1
-filterComposite 
-dimensions dimX=stage dimY=fraction
+filterComposite dimA=rep dimB=strand
+dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 sortOrder stage=+ fraction=-
 subgroup1 view Views 
 subgroup1 stage G0 G1 G2 S
