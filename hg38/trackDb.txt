@@ -6,7 +6,7 @@ visibility full
 priority 1
 dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 filterComposite dimA dimB
-sortOrder stage=+ fraction=-
+sortOrder stage=+ fraction=- rep=+ strand=+
 subgroup1 view Views 
 subgroup1 stage G0 G1 G2 S
 subgroup2 fraction Nucl Tot
