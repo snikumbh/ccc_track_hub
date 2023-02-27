@@ -1,4 +1,4 @@
-track CellCycleCAGE-seqComposite
+track CellCycleCAGEComposite
 shortLabel Cell Cycle CAGE
 longLabel Cell Cycle CAGE
 type bigWig
@@ -19,7 +19,7 @@ subgroup4 strand minus plus
 	longLabel CAGE signal
 	type bigWig
 	visibility full
-	parent CellCycleCAGE-seqComposite on
+	parent CellCycleCAGEComposite on
 	view signal
 
 		track G0_Nucl_rep1_1_minus_L005_sorted
