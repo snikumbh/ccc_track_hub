@@ -5,10 +5,11 @@ type bigWig
 visibility full
 compositeTrack on
 subgroup1 view Views signal=signal peak=peak
-subgroup1 stage  developmental_stage G0=G0 G1=G1 G2=G2 S=S
-subgroup2 fraction rna_fraction Nucl=Nucl Tot=Tot
-subgroup3 rep bio_rep rep1=rep1 rep2=rep2
-subgroup4 strand seq_strand minus=minus plus=plus
+subgroup2 sample sample_id G0_Nucl_rep1_1_minus_L005=G0_Nucl_rep1_1_minus_L005 G0_Nucl_rep1_1_plus_L005=G0_Nucl_rep1_1_plus_L005 G0_Nucl_rep1_2_minus_L006=G0_Nucl_rep1_2_minus_L006 G0_Nucl_rep1_2_plus_L006=G0_Nucl_rep1_2_plus_L006 G0_Nucl_rep2_1_minus_L007=G0_Nucl_rep2_1_minus_L007 G0_Nucl_rep2_1_plus_L007=G0_Nucl_rep2_1_plus_L007 G0_Nucl_rep2_2_minus_L008=G0_Nucl_rep2_2_minus_L008 G0_Nucl_rep2_2_plus_L008=G0_Nucl_rep2_2_plus_L008 G0_Tot_rep1_1_minus_L005=G0_Tot_rep1_1_minus_L005 G0_Tot_rep1_1_plus_L005=G0_Tot_rep1_1_plus_L005 G0_Tot_rep1_2_minus_L006=G0_Tot_rep1_2_minus_L006 G0_Tot_rep1_2_plus_L006=G0_Tot_rep1_2_plus_L006 G0_Tot_rep2_1_minus_L007=G0_Tot_rep2_1_minus_L007 G0_Tot_rep2_1_plus_L007=G0_Tot_rep2_1_plus_L007 G0_Tot_rep2_2_minus_L008=G0_Tot_rep2_2_minus_L008 G0_Tot_rep2_2_plus_L008=G0_Tot_rep2_2_plus_L008 G1_Nucl_rep1_1_minus_L005=G1_Nucl_rep1_1_minus_L005 G1_Nucl_rep1_1_plus_L005=G1_Nucl_rep1_1_plus_L005 G1_Nucl_rep1_2_minus_L006=G1_Nucl_rep1_2_minus_L006 G1_Nucl_rep1_2_plus_L006=G1_Nucl_rep1_2_plus_L006 G1_Nucl_rep2_1_minus_L007=G1_Nucl_rep2_1_minus_L007 G1_Nucl_rep2_1_plus_L007=G1_Nucl_rep2_1_plus_L007 G1_Nucl_rep2_2_minus_L008=G1_Nucl_rep2_2_minus_L008 G1_Nucl_rep2_2_plus_L008=G1_Nucl_rep2_2_plus_L008 G1_Tot_rep1_1_minus_L005=G1_Tot_rep1_1_minus_L005 G1_Tot_rep1_1_plus_L005=G1_Tot_rep1_1_plus_L005 G1_Tot_rep1_2_minus_L006=G1_Tot_rep1_2_minus_L006 G1_Tot_rep1_2_plus_L006=G1_Tot_rep1_2_plus_L006 G1_Tot_rep2_1_minus_L007=G1_Tot_rep2_1_minus_L007 G1_Tot_rep2_1_plus_L007=G1_Tot_rep2_1_plus_L007 G1_Tot_rep2_2_minus_L008=G1_Tot_rep2_2_minus_L008 G1_Tot_rep2_2_plus_L008=G1_Tot_rep2_2_plus_L008 G2_Nucl_rep1_1_minus_L005=G2_Nucl_rep1_1_minus_L005 G2_Nucl_rep1_1_plus_L005=G2_Nucl_rep1_1_plus_L005 G2_Nucl_rep1_2_minus_L006=G2_Nucl_rep1_2_minus_L006 G2_Nucl_rep1_2_plus_L006=G2_Nucl_rep1_2_plus_L006 G2_Nucl_rep2_1_minus_L007=G2_Nucl_rep2_1_minus_L007 G2_Nucl_rep2_1_plus_L007=G2_Nucl_rep2_1_plus_L007 G2_Nucl_rep2_2_minus_L008=G2_Nucl_rep2_2_minus_L008 G2_Nucl_rep2_2_plus_L008=G2_Nucl_rep2_2_plus_L008 G2_Tot_rep1_1_minus_L005=G2_Tot_rep1_1_minus_L005 G2_Tot_rep1_1_plus_L005=G2_Tot_rep1_1_plus_L005 G2_Tot_rep1_2_minus_L006=G2_Tot_rep1_2_minus_L006 G2_Tot_rep1_2_plus_L006=G2_Tot_rep1_2_plus_L006 G2_Tot_rep2_1_minus_L007=G2_Tot_rep2_1_minus_L007 G2_Tot_rep2_1_plus_L007=G2_Tot_rep2_1_plus_L007 G2_Tot_rep2_2_minus_L008=G2_Tot_rep2_2_minus_L008 G2_Tot_rep2_2_plus_L008=G2_Tot_rep2_2_plus_L008 S_Nucl_rep1_1_minus_L005=S_Nucl_rep1_1_minus_L005 S_Nucl_rep1_1_plus_L005=S_Nucl_rep1_1_plus_L005 S_Nucl_rep1_2_minus_L006=S_Nucl_rep1_2_minus_L006 S_Nucl_rep1_2_plus_L006=S_Nucl_rep1_2_plus_L006 S_Nucl_rep2_1_minus_L007=S_Nucl_rep2_1_minus_L007 S_Nucl_rep2_1_plus_L007=S_Nucl_rep2_1_plus_L007 S_Nucl_rep2_2_minus_L008=S_Nucl_rep2_2_minus_L008 S_Nucl_rep2_2_plus_L008=S_Nucl_rep2_2_plus_L008 S_Tot_rep1_1_minus_L005=S_Tot_rep1_1_minus_L005 S_Tot_rep1_1_plus_L005=S_Tot_rep1_1_plus_L005 S_Tot_rep1_2_minus_L006=S_Tot_rep1_2_minus_L006 S_Tot_rep1_2_plus_L006=S_Tot_rep1_2_plus_L006 S_Tot_rep2_1_minus_L007=S_Tot_rep2_1_minus_L007 S_Tot_rep2_1_plus_L007=S_Tot_rep2_1_plus_L007 S_Tot_rep2_2_minus_L008=S_Tot_rep2_2_minus_L008 S_Tot_rep2_2_plus_L008=S_Tot_rep2_2_plus_L008
+subgroup3 stage  developmental_stage G0=G0 G1=G1 G2=G2 S=S
+subgroup4 fraction rna_fraction Nucl=Nucl Tot=Tot
+subgroup5 rep bio_rep rep1=rep1 rep2=rep2
+subgroup6 strand seq_strand minus=minus plus=plus
 dimensions dimX=stage dimY=fraction dimA=rep
 filterComposite dimA
 sortOrder stage=+ fraction=- rep=+ strand=+
@@ -28,7 +29,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Nucl_rep1_1_minus_L005 kind=signal view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=G0_Nucl_rep1_1_minus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -39,7 +40,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Nucl_rep1_1_plus_L005 kind=signal view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=G0_Nucl_rep1_1_plus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -50,7 +51,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Nucl_rep1_2_minus_L006 kind=signal view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=G0_Nucl_rep1_2_minus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -61,7 +62,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Nucl_rep1_2_plus_L006 kind=signal view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=G0_Nucl_rep1_2_plus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -72,7 +73,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Nucl_rep2_1_minus_L007 kind=signal view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=G0_Nucl_rep2_1_minus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -83,7 +84,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Nucl_rep2_1_plus_L007 kind=signal view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=G0_Nucl_rep2_1_plus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -94,7 +95,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Nucl_rep2_2_minus_L008 kind=signal view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=G0_Nucl_rep2_2_minus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -105,7 +106,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Nucl_rep2_2_plus_L008 kind=signal view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=G0_Nucl_rep2_2_plus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -116,7 +117,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Tot_rep1_1_minus_L005 kind=signal view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
+		subGroups sample=G0_Tot_rep1_1_minus_L005 view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -127,7 +128,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Tot_rep1_1_plus_L005 kind=signal view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
+		subGroups sample=G0_Tot_rep1_1_plus_L005 view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -138,7 +139,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Tot_rep1_2_minus_L006 kind=signal view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
+		subGroups sample=G0_Tot_rep1_2_minus_L006 view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -149,7 +150,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Tot_rep1_2_plus_L006 kind=signal view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
+		subGroups sample=G0_Tot_rep1_2_plus_L006 view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -160,7 +161,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Tot_rep2_1_minus_L007 kind=signal view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
+		subGroups sample=G0_Tot_rep2_1_minus_L007 view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -171,7 +172,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Tot_rep2_1_plus_L007 kind=signal view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
+		subGroups sample=G0_Tot_rep2_1_plus_L007 view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -182,7 +183,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G0_Tot_rep2_2_minus_L008 kind=signal view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
+		subGroups sample=G0_Tot_rep2_2_minus_L008 view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -193,7 +194,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G0_Tot_rep2_2_plus_L008 kind=signal view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
+		subGroups sample=G0_Tot_rep2_2_plus_L008 view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -204,7 +205,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Nucl_rep1_1_minus_L005 kind=signal view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=G1_Nucl_rep1_1_minus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -215,7 +216,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Nucl_rep1_1_plus_L005 kind=signal view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=G1_Nucl_rep1_1_plus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -226,7 +227,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Nucl_rep1_2_minus_L006 kind=signal view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=G1_Nucl_rep1_2_minus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -237,7 +238,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Nucl_rep1_2_plus_L006 kind=signal view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=G1_Nucl_rep1_2_plus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -248,7 +249,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Nucl_rep2_1_minus_L007 kind=signal view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=G1_Nucl_rep2_1_minus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -259,7 +260,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Nucl_rep2_1_plus_L007 kind=signal view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=G1_Nucl_rep2_1_plus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -270,7 +271,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Nucl_rep2_2_minus_L008 kind=signal view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=G1_Nucl_rep2_2_minus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -281,7 +282,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Nucl_rep2_2_plus_L008 kind=signal view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=G1_Nucl_rep2_2_plus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -292,7 +293,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Tot_rep1_1_minus_L005 kind=signal view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
+		subGroups sample=G1_Tot_rep1_1_minus_L005 view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -303,7 +304,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Tot_rep1_1_plus_L005 kind=signal view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
+		subGroups sample=G1_Tot_rep1_1_plus_L005 view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -314,7 +315,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Tot_rep1_2_minus_L006 kind=signal view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
+		subGroups sample=G1_Tot_rep1_2_minus_L006 view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -325,7 +326,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Tot_rep1_2_plus_L006 kind=signal view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
+		subGroups sample=G1_Tot_rep1_2_plus_L006 view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -336,7 +337,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Tot_rep2_1_minus_L007 kind=signal view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
+		subGroups sample=G1_Tot_rep2_1_minus_L007 view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -347,7 +348,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Tot_rep2_1_plus_L007 kind=signal view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
+		subGroups sample=G1_Tot_rep2_1_plus_L007 view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -358,7 +359,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G1_Tot_rep2_2_minus_L008 kind=signal view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
+		subGroups sample=G1_Tot_rep2_2_minus_L008 view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -369,7 +370,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G1_Tot_rep2_2_plus_L008 kind=signal view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
+		subGroups sample=G1_Tot_rep2_2_plus_L008 view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -380,7 +381,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Nucl_rep1_1_minus_L005 kind=signal view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=G2_Nucl_rep1_1_minus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -391,7 +392,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Nucl_rep1_1_plus_L005 kind=signal view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=G2_Nucl_rep1_1_plus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -402,7 +403,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Nucl_rep1_2_minus_L006 kind=signal view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=G2_Nucl_rep1_2_minus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -413,7 +414,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Nucl_rep1_2_plus_L006 kind=signal view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=G2_Nucl_rep1_2_plus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -424,7 +425,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Nucl_rep2_1_minus_L007 kind=signal view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=G2_Nucl_rep2_1_minus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -435,7 +436,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Nucl_rep2_1_plus_L007 kind=signal view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=G2_Nucl_rep2_1_plus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -446,7 +447,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Nucl_rep2_2_minus_L008 kind=signal view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=G2_Nucl_rep2_2_minus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -457,7 +458,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Nucl_rep2_2_plus_L008 kind=signal view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=G2_Nucl_rep2_2_plus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -468,7 +469,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Tot_rep1_1_minus_L005 kind=signal view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
+		subGroups sample=G2_Tot_rep1_1_minus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -479,7 +480,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Tot_rep1_1_plus_L005 kind=signal view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
+		subGroups sample=G2_Tot_rep1_1_plus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -490,7 +491,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Tot_rep1_2_minus_L006 kind=signal view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
+		subGroups sample=G2_Tot_rep1_2_minus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -501,7 +502,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Tot_rep1_2_plus_L006 kind=signal view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
+		subGroups sample=G2_Tot_rep1_2_plus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -512,7 +513,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Tot_rep2_1_minus_L007 kind=signal view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
+		subGroups sample=G2_Tot_rep2_1_minus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -523,7 +524,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Tot_rep2_1_plus_L007 kind=signal view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
+		subGroups sample=G2_Tot_rep2_1_plus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -534,7 +535,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=G2_Tot_rep2_2_minus_L008 kind=signal view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
+		subGroups sample=G2_Tot_rep2_2_minus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -545,7 +546,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=G2_Tot_rep2_2_plus_L008 kind=signal view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
+		subGroups sample=G2_Tot_rep2_2_plus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -556,7 +557,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Nucl_rep1_1_minus_L005 kind=signal view=signal stage=S fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=S_Nucl_rep1_1_minus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -567,7 +568,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Nucl_rep1_1_plus_L005 kind=signal view=signal stage=S fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=S_Nucl_rep1_1_plus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -578,7 +579,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Nucl_rep1_2_minus_L006 kind=signal view=signal stage=S fraction=Nucl rep=rep1 strand=minus
+		subGroups sample=S_Nucl_rep1_2_minus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -589,7 +590,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Nucl_rep1_2_plus_L006 kind=signal view=signal stage=S fraction=Nucl rep=rep1 strand=plus
+		subGroups sample=S_Nucl_rep1_2_plus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -600,7 +601,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Nucl_rep2_1_minus_L007 kind=signal view=signal stage=S fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=S_Nucl_rep2_1_minus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -611,7 +612,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Nucl_rep2_1_plus_L007 kind=signal view=signal stage=S fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=S_Nucl_rep2_1_plus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -622,7 +623,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Nucl_rep2_2_minus_L008 kind=signal view=signal stage=S fraction=Nucl rep=rep2 strand=minus
+		subGroups sample=S_Nucl_rep2_2_minus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -633,7 +634,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Nucl_rep2_2_plus_L008 kind=signal view=signal stage=S fraction=Nucl rep=rep2 strand=plus
+		subGroups sample=S_Nucl_rep2_2_plus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -644,7 +645,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Tot_rep1_1_minus_L005 kind=signal view=signal stage=S fraction=Tot rep=rep1 strand=minus
+		subGroups sample=S_Tot_rep1_1_minus_L005 view=signal stage=S fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -655,7 +656,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Tot_rep1_1_plus_L005 kind=signal view=signal stage=S fraction=Tot rep=rep1 strand=plus
+		subGroups sample=S_Tot_rep1_1_plus_L005 view=signal stage=S fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -666,7 +667,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Tot_rep1_2_minus_L006 kind=signal view=signal stage=S fraction=Tot rep=rep1 strand=minus
+		subGroups sample=S_Tot_rep1_2_minus_L006 view=signal stage=S fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -677,7 +678,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Tot_rep1_2_plus_L006 kind=signal view=signal stage=S fraction=Tot rep=rep1 strand=plus
+		subGroups sample=S_Tot_rep1_2_plus_L006 view=signal stage=S fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -688,7 +689,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Tot_rep2_1_minus_L007 kind=signal view=signal stage=S fraction=Tot rep=rep2 strand=minus
+		subGroups sample=S_Tot_rep2_1_minus_L007 view=signal stage=S fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -699,7 +700,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Tot_rep2_1_plus_L007 kind=signal view=signal stage=S fraction=Tot rep=rep2 strand=plus
+		subGroups sample=S_Tot_rep2_1_plus_L007 view=signal stage=S fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
@@ -710,7 +711,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 0,0,255
 		visibility full
-		subGroups sample=S_Tot_rep2_2_minus_L008 kind=signal view=signal stage=S fraction=Tot rep=rep2 strand=minus
+		subGroups sample=S_Tot_rep2_2_minus_L008 view=signal stage=S fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
 
@@ -721,7 +722,7 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		type bigwig
 		color 255,0,0
 		visibility full
-		subGroups sample=S_Tot_rep2_2_plus_L008 kind=signal view=signal stage=S fraction=Tot rep=rep2 strand=plus
+		subGroups sample=S_Tot_rep2_2_plus_L008 view=signal stage=S fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
 
