@@ -8,10 +8,10 @@ dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 filterComposite dimA dimB
 sortOrder stage=+ fraction=- rep=+ strand=+
 subgroup1 view Views 
-subgroup1 stage G0 G1 G2 S
-subgroup2 fraction Nucl Tot
-subgroup3 rep rep1 rep2
-subgroup4 strand minus plus
+subgroup1 stage G0=G0 G1=G1 G2=G2 S=S
+subgroup2 fraction Nucl=Nucl Tot=Tot
+subgroup3 rep rep1=rep1 rep2=rep2
+subgroup4 strand minus=minus plus=plus
 compositeTrack on
 
 	track CAGEsignalBigWig
