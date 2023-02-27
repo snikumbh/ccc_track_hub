@@ -12,8 +12,8 @@ subgroup1 stage G0 G1 G2 S
 subgroup2 fraction Nucl Tot
 subgroup3 rep rep1 rep2
 subgroup4 strand minus plus
+compositeTrack on
 
-	compositeTrack on
 	track CAGEsignalBigWig
 	shortLabel CAGE signal
 	longLabel CAGE signal
