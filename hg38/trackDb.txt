@@ -4,7 +4,7 @@ longLabel Cell Cycle CAGE
 type bigWig
 visibility full
 compositeTrack on
-subgroup1 view Views 
+subgroup1 view Views signal=signal peak=peak
 subgroup1 stage  developmental_stage G0=G0 G1=G1 G2=G2 S=S
 subgroup2 fraction rna_fraction Nucl=Nucl Tot=Tot
 subgroup3 rep bio_rep rep1=rep1 rep2=rep2
