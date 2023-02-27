@@ -5,7 +5,7 @@ type bigWig
 visibility full
 priority 1
 filterComposite dimA dimB
-dimensions dimA=stage dimB=fraction
+dimensions dimX=stage dimY=fraction
 sortOrder stage=+ fraction=-
 subgroup1 view Views 
 subgroup1 stage G0 G1 G2 S
