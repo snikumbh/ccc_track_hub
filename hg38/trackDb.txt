@@ -3,7 +3,6 @@ shortLabel Cell Cycle CAGE
 longLabel Cell Cycle CAGE
 type bigWig
 visibility full
-priority 1
 compositeTrack on
 subgroup1 view Views 
 subgroup1 stage G0=G0 G1=G1 G2=G2 S=S
