@@ -12,6 +12,7 @@ subgroup3 rep rep1=rep1 rep2=rep2
 subgroup4 strand minus=minus plus=plus
 dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 filterComposite dimA dimB
+dimensionAchecked rep1
 sortOrder stage=+ fraction=- rep=+ strand=+
 
 	track CAGEsignalBigWig
