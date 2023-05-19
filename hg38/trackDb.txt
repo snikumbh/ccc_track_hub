@@ -47,27 +47,27 @@ sortOrder fraction=- stage=+ rep=+ strand=+
 		subGroups sample=2_G0_Tot_rep1_1_plus_L005 view=signal stage=AG0 fraction=ATOT rep=rep1 strand=APLUS
 		parent CAGEsignalBigWig on
 
-		track G0_Tot_rep1_2_minus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep1_2_minus_L006_sorted.bw
-		shortLabel G0_Tot_rep1_2_minus_L006
-		longLabel G0_Tot_rep1_2_minus_L006_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8
-		visibility full
-		subGroups sample=3_G0_Tot_rep1_2_minus_L006 view=signal stage=AG1 fraction=BNUC rep=rep1 strand=BMINUS
-		parent CAGEsignalBigWig on
+		track G1_Tot_rep1_1_minus_L005_sorted
+        bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep1_1_minus_L005_sorted.bw
+        shortLabel G1_Tot_rep1_1_minus_L005
+        longLabel G1_Tot_rep1_1_minus_L005_sorted
+        type bigWig
+        color 0,0,255
+        autoScale group
+        maxHeightPixels 128:32:8
+        visibility full
+        subGroups sample=9_G1_Tot_rep1_1_minus_L005 view=signal stage=AG1 fraction=ATOT rep=rep1 strand=BMINUS
+        parent CAGEsignalBigWig on
 
-		track G0_Tot_rep1_2_plus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep1_2_plus_L006_sorted.bw
-		shortLabel G0_Tot_rep1_2_plus_L006
-		longLabel G0_Tot_rep1_2_plus_L006_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8
-		visibility full
-		subGroups sample=4_G0_Tot_rep1_2_plus_L006 view=signal stage=B0S fraction=BNUC rep=rep1 strand=APLUS
-		parent CAGEsignalBigWig on
+		track G1_Tot_rep1_1_plus_L005_sorted
+        bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep1_1_plus_L005_sorted.bw
+        shortLabel G1_Tot_rep1_1_plus_L005
+        longLabel G1_Tot_rep1_1_plus_L005_sorted
+        type bigWig
+        color 255,0,0
+        autoScale group
+        maxHeightPixels 128:32:8
+        visibility full
+        subGroups sample=G1_Tot_rep1_1_plus_L005 view=signal stage=AG1 fraction=ATOT rep=rep1 strand=APLUS
+        parent CAGEsignalBigWig on
 
