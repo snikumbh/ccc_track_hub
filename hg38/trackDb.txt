@@ -13,7 +13,7 @@ subGroup5 rep bio_rep rep1=rep1 rep2=rep2
 subGroup6 strand seq_strand plus=plus minus=minus
 dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 filterComposite dimA dimB
-sortOrder fraction=+ stage=+ rep=+ strand=-
+sortOrder fraction=+ stage=+ rep=+ strand=+
 
 	track CAGEsignalBigWig
 	shortLabel CAGE signal
