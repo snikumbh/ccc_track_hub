@@ -29,7 +29,9 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		longLabel G0_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep1_1_minus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -40,7 +42,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep1_1_plus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -51,7 +55,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep1_2_minus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -62,7 +68,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep1_2_plus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -73,7 +81,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep2_1_minus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -84,7 +94,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep2_1_plus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -95,7 +107,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep2_2_minus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -106,7 +120,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Nucl_rep2_2_plus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -117,7 +133,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep1_1_minus_L005 view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -128,7 +146,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep1_1_plus_L005 view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -139,7 +159,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep1_2_minus_L006 view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -150,7 +172,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep1_2_plus_L006 view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -161,7 +185,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep2_1_minus_L007 view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -172,7 +198,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep2_1_plus_L007 view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -183,7 +211,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep2_2_minus_L008 view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -194,7 +224,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G0_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G0_Tot_rep2_2_plus_L008 view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -205,7 +237,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep1_1_minus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -216,7 +250,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep1_1_plus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -227,7 +263,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep1_2_minus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -238,7 +276,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep1_2_plus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -249,7 +289,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep2_1_minus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -260,7 +302,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep2_1_plus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -271,7 +315,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep2_2_minus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -282,7 +328,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Nucl_rep2_2_plus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -293,7 +341,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep1_1_minus_L005 view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -304,7 +354,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep1_1_plus_L005 view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -315,7 +367,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep1_2_minus_L006 view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -326,7 +380,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep1_2_plus_L006 view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -337,7 +393,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep2_1_minus_L007 view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -348,7 +406,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep2_1_plus_L007 view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -359,7 +419,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep2_2_minus_L008 view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -370,7 +432,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G1_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G1_Tot_rep2_2_plus_L008 view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -381,7 +445,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep1_1_minus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -392,7 +458,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep1_1_plus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -403,7 +471,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep1_2_minus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -414,7 +484,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep1_2_plus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -425,7 +497,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep2_1_minus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -436,7 +510,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep2_1_plus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -447,7 +523,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep2_2_minus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -458,7 +536,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Nucl_rep2_2_plus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -469,7 +549,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep1_1_minus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -480,7 +562,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep1_1_plus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -491,7 +575,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep1_2_minus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -502,7 +588,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep1_2_plus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -513,7 +601,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep2_1_minus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -524,7 +614,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep2_1_plus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -535,7 +627,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep2_2_minus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -546,7 +640,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel G2_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=G2_Tot_rep2_2_plus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -557,7 +653,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep1_1_minus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -568,7 +666,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep1_1_plus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -579,7 +679,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep1_2_minus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -590,7 +692,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep1_2_plus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -601,7 +705,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep2_1_minus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -612,7 +718,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep2_1_plus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -623,7 +731,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep2_2_minus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -634,7 +744,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Nucl_rep2_2_plus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -645,7 +757,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep1_1_minus_L005 view=signal stage=S fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -656,7 +770,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep1_1_plus_L005 view=signal stage=S fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -667,7 +783,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep1_2_minus_L006 view=signal stage=S fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -678,7 +796,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep1_2_plus_L006 view=signal stage=S fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -689,7 +809,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep2_1_minus_L007 view=signal stage=S fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -700,7 +822,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep2_1_plus_L007 view=signal stage=S fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
@@ -711,7 +835,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 0,0,255
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep2_2_minus_L008 view=signal stage=S fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
 
@@ -722,7 +848,9 @@ autoScale groupmaxHeightPixels 128:32:8		visibility full
 		longLabel S_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 255,0,0
-autoScale groupmaxHeightPixels 128:32:8		visibility full
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
 		subGroups sample=S_Tot_rep2_2_plus_L008 view=signal stage=S fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
