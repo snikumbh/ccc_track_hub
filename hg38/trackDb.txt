@@ -23,110 +23,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 	parent CellCycleCAGEComposite on
 	view signal
 
-		track G0_Nucl_rep1_1_minus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel G0_Nucl_rep1_1_minus_L005
-		longLabel G0_Nucl_rep1_1_minus_L005_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep1_1_minus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G0_Nucl_rep1_1_plus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel G0_Nucl_rep1_1_plus_L005
-		longLabel G0_Nucl_rep1_1_plus_L005_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep1_1_plus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G0_Nucl_rep1_2_minus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel G0_Nucl_rep1_2_minus_L006
-		longLabel G0_Nucl_rep1_2_minus_L006_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep1_2_minus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G0_Nucl_rep1_2_plus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel G0_Nucl_rep1_2_plus_L006
-		longLabel G0_Nucl_rep1_2_plus_L006_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep1_2_plus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G0_Nucl_rep2_1_minus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel G0_Nucl_rep2_1_minus_L007
-		longLabel G0_Nucl_rep2_1_minus_L007_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep2_1_minus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G0_Nucl_rep2_1_plus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel G0_Nucl_rep2_1_plus_L007
-		longLabel G0_Nucl_rep2_1_plus_L007_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep2_1_plus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G0_Nucl_rep2_2_minus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel G0_Nucl_rep2_2_minus_L008
-		longLabel G0_Nucl_rep2_2_minus_L008_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep2_2_minus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G0_Nucl_rep2_2_plus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel G0_Nucl_rep2_2_plus_L008
-		longLabel G0_Nucl_rep2_2_plus_L008_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G0_Nucl_rep2_2_plus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
 		track G0_Tot_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep1_1_minus_L005_sorted.bw
 		shortLabel G0_Tot_rep1_1_minus_L005
@@ -138,7 +34,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G0_Tot_rep1_1_minus_L005 view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G0_Tot_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep1_1_plus_L005_sorted.bw
@@ -152,7 +47,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G0_Tot_rep1_1_plus_L005 view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track G0_Tot_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep1_2_minus_L006_sorted.bw
 		shortLabel G0_Tot_rep1_2_minus_L006
@@ -164,7 +58,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G0_Tot_rep1_2_minus_L006 view=signal stage=G0 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G0_Tot_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep1_2_plus_L006_sorted.bw
@@ -178,7 +71,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G0_Tot_rep1_2_plus_L006 view=signal stage=G0 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track G0_Tot_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep2_1_minus_L007_sorted.bw
 		shortLabel G0_Tot_rep2_1_minus_L007
@@ -190,7 +82,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G0_Tot_rep2_1_minus_L007 view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G0_Tot_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep2_1_plus_L007_sorted.bw
@@ -204,7 +95,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G0_Tot_rep2_1_plus_L007 view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track G0_Tot_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep2_2_minus_L008_sorted.bw
 		shortLabel G0_Tot_rep2_2_minus_L008
@@ -216,7 +106,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G0_Tot_rep2_2_minus_L008 view=signal stage=G0 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G0_Tot_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Tot_rep2_2_plus_L008_sorted.bw
@@ -230,111 +119,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G0_Tot_rep2_2_plus_L008 view=signal stage=G0 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
-
-		track G1_Nucl_rep1_1_minus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel G1_Nucl_rep1_1_minus_L005
-		longLabel G1_Nucl_rep1_1_minus_L005_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep1_1_minus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G1_Nucl_rep1_1_plus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel G1_Nucl_rep1_1_plus_L005
-		longLabel G1_Nucl_rep1_1_plus_L005_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep1_1_plus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G1_Nucl_rep1_2_minus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel G1_Nucl_rep1_2_minus_L006
-		longLabel G1_Nucl_rep1_2_minus_L006_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep1_2_minus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G1_Nucl_rep1_2_plus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel G1_Nucl_rep1_2_plus_L006
-		longLabel G1_Nucl_rep1_2_plus_L006_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep1_2_plus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G1_Nucl_rep2_1_minus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel G1_Nucl_rep2_1_minus_L007
-		longLabel G1_Nucl_rep2_1_minus_L007_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep2_1_minus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G1_Nucl_rep2_1_plus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel G1_Nucl_rep2_1_plus_L007
-		longLabel G1_Nucl_rep2_1_plus_L007_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep2_1_plus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G1_Nucl_rep2_2_minus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel G1_Nucl_rep2_2_minus_L008
-		longLabel G1_Nucl_rep2_2_minus_L008_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep2_2_minus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G1_Nucl_rep2_2_plus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel G1_Nucl_rep2_2_plus_L008
-		longLabel G1_Nucl_rep2_2_plus_L008_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G1_Nucl_rep2_2_plus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
 		track G1_Tot_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep1_1_minus_L005_sorted.bw
 		shortLabel G1_Tot_rep1_1_minus_L005
@@ -346,7 +130,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G1_Tot_rep1_1_minus_L005 view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G1_Tot_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep1_1_plus_L005_sorted.bw
@@ -360,7 +143,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G1_Tot_rep1_1_plus_L005 view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track G1_Tot_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep1_2_minus_L006_sorted.bw
 		shortLabel G1_Tot_rep1_2_minus_L006
@@ -372,7 +154,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G1_Tot_rep1_2_minus_L006 view=signal stage=G1 fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G1_Tot_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep1_2_plus_L006_sorted.bw
@@ -386,7 +167,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G1_Tot_rep1_2_plus_L006 view=signal stage=G1 fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track G1_Tot_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep2_1_minus_L007_sorted.bw
 		shortLabel G1_Tot_rep2_1_minus_L007
@@ -398,7 +178,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G1_Tot_rep2_1_minus_L007 view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G1_Tot_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep2_1_plus_L007_sorted.bw
@@ -412,7 +191,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G1_Tot_rep2_1_plus_L007 view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track G1_Tot_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep2_2_minus_L008_sorted.bw
 		shortLabel G1_Tot_rep2_2_minus_L008
@@ -424,7 +202,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=G1_Tot_rep2_2_minus_L008 view=signal stage=G1 fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track G1_Tot_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Tot_rep2_2_plus_L008_sorted.bw
@@ -438,319 +215,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=G1_Tot_rep2_2_plus_L008 view=signal stage=G1 fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
-
-		track G2_Nucl_rep1_1_minus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel G2_Nucl_rep1_1_minus_L005
-		longLabel G2_Nucl_rep1_1_minus_L005_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep1_1_minus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Nucl_rep1_1_plus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel G2_Nucl_rep1_1_plus_L005
-		longLabel G2_Nucl_rep1_1_plus_L005_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep1_1_plus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Nucl_rep1_2_minus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel G2_Nucl_rep1_2_minus_L006
-		longLabel G2_Nucl_rep1_2_minus_L006_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep1_2_minus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Nucl_rep1_2_plus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel G2_Nucl_rep1_2_plus_L006
-		longLabel G2_Nucl_rep1_2_plus_L006_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep1_2_plus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Nucl_rep2_1_minus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel G2_Nucl_rep2_1_minus_L007
-		longLabel G2_Nucl_rep2_1_minus_L007_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep2_1_minus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Nucl_rep2_1_plus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel G2_Nucl_rep2_1_plus_L007
-		longLabel G2_Nucl_rep2_1_plus_L007_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep2_1_plus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Nucl_rep2_2_minus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel G2_Nucl_rep2_2_minus_L008
-		longLabel G2_Nucl_rep2_2_minus_L008_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep2_2_minus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Nucl_rep2_2_plus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel G2_Nucl_rep2_2_plus_L008
-		longLabel G2_Nucl_rep2_2_plus_L008_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Nucl_rep2_2_plus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep1_1_minus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_1_minus_L005_sorted.bw
-		shortLabel G2_Tot_rep1_1_minus_L005
-		longLabel G2_Tot_rep1_1_minus_L005_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep1_1_minus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep1_1_plus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_1_plus_L005_sorted.bw
-		shortLabel G2_Tot_rep1_1_plus_L005
-		longLabel G2_Tot_rep1_1_plus_L005_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep1_1_plus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep1_2_minus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_2_minus_L006_sorted.bw
-		shortLabel G2_Tot_rep1_2_minus_L006
-		longLabel G2_Tot_rep1_2_minus_L006_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep1_2_minus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep1_2_plus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_2_plus_L006_sorted.bw
-		shortLabel G2_Tot_rep1_2_plus_L006
-		longLabel G2_Tot_rep1_2_plus_L006_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep1_2_plus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep2_1_minus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_1_minus_L007_sorted.bw
-		shortLabel G2_Tot_rep2_1_minus_L007
-		longLabel G2_Tot_rep2_1_minus_L007_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep2_1_minus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep2_1_plus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_1_plus_L007_sorted.bw
-		shortLabel G2_Tot_rep2_1_plus_L007
-		longLabel G2_Tot_rep2_1_plus_L007_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep2_1_plus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep2_2_minus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_2_minus_L008_sorted.bw
-		shortLabel G2_Tot_rep2_2_minus_L008
-		longLabel G2_Tot_rep2_2_minus_L008_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep2_2_minus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track G2_Tot_rep2_2_plus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_2_plus_L008_sorted.bw
-		shortLabel G2_Tot_rep2_2_plus_L008
-		longLabel G2_Tot_rep2_2_plus_L008_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=G2_Tot_rep2_2_plus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep1_1_minus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel S_Nucl_rep1_1_minus_L005
-		longLabel S_Nucl_rep1_1_minus_L005_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep1_1_minus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep1_1_plus_L005_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel S_Nucl_rep1_1_plus_L005
-		longLabel S_Nucl_rep1_1_plus_L005_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep1_1_plus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep1_2_minus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel S_Nucl_rep1_2_minus_L006
-		longLabel S_Nucl_rep1_2_minus_L006_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep1_2_minus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep1_2_plus_L006_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel S_Nucl_rep1_2_plus_L006
-		longLabel S_Nucl_rep1_2_plus_L006_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep1_2_plus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep2_1_minus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel S_Nucl_rep2_1_minus_L007
-		longLabel S_Nucl_rep2_1_minus_L007_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep2_1_minus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep2_1_plus_L007_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel S_Nucl_rep2_1_plus_L007
-		longLabel S_Nucl_rep2_1_plus_L007_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep2_1_plus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep2_2_minus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel S_Nucl_rep2_2_minus_L008
-		longLabel S_Nucl_rep2_2_minus_L008_sorted
-		type bigWig
-		color 0,0,255
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep2_2_minus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
-		parent CAGEsignalBigWig on
-
-
-		track S_Nucl_rep2_2_plus_L008_sorted
-		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel S_Nucl_rep2_2_plus_L008
-		longLabel S_Nucl_rep2_2_plus_L008_sorted
-		type bigWig
-		color 255,0,0
-		autoScale group
-		maxHeightPixels 128:32:8		
-		visibility full
-		subGroups sample=S_Nucl_rep2_2_plus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
-		parent CAGEsignalBigWig on
-
-
 		track S_Tot_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep1_1_minus_L005_sorted.bw
 		shortLabel S_Tot_rep1_1_minus_L005
@@ -762,7 +226,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=S_Tot_rep1_1_minus_L005 view=signal stage=S fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track S_Tot_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep1_1_plus_L005_sorted.bw
@@ -776,7 +239,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=S_Tot_rep1_1_plus_L005 view=signal stage=S fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track S_Tot_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep1_2_minus_L006_sorted.bw
 		shortLabel S_Tot_rep1_2_minus_L006
@@ -788,7 +250,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=S_Tot_rep1_2_minus_L006 view=signal stage=S fraction=Tot rep=rep1 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track S_Tot_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep1_2_plus_L006_sorted.bw
@@ -802,7 +263,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=S_Tot_rep1_2_plus_L006 view=signal stage=S fraction=Tot rep=rep1 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track S_Tot_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep2_1_minus_L007_sorted.bw
 		shortLabel S_Tot_rep2_1_minus_L007
@@ -814,7 +274,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=S_Tot_rep2_1_minus_L007 view=signal stage=S fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track S_Tot_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep2_1_plus_L007_sorted.bw
@@ -828,7 +287,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=S_Tot_rep2_1_plus_L007 view=signal stage=S fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
-
 		track S_Tot_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep2_2_minus_L008_sorted.bw
 		shortLabel S_Tot_rep2_2_minus_L008
@@ -840,7 +298,6 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		visibility full
 		subGroups sample=S_Tot_rep2_2_minus_L008 view=signal stage=S fraction=Tot rep=rep2 strand=minus
 		parent CAGEsignalBigWig on
-
 
 		track S_Tot_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Tot_rep2_2_plus_L008_sorted.bw
@@ -854,5 +311,483 @@ sortOrder stage=+ fraction=- rep=+ strand=+
 		subGroups sample=S_Tot_rep2_2_plus_L008 view=signal stage=S fraction=Tot rep=rep2 strand=plus
 		parent CAGEsignalBigWig on
 
+		track G2_Tot_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_1_minus_L005_sorted.bw
+		shortLabel G2_Tot_rep1_1_minus_L005
+		longLabel G2_Tot_rep1_1_minus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep1_1_minus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
 
+		track G2_Tot_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_1_plus_L005_sorted.bw
+		shortLabel G2_Tot_rep1_1_plus_L005
+		longLabel G2_Tot_rep1_1_plus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep1_1_plus_L005 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_2_minus_L006_sorted.bw
+		shortLabel G2_Tot_rep1_2_minus_L006
+		longLabel G2_Tot_rep1_2_minus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep1_2_minus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep1_2_plus_L006_sorted.bw
+		shortLabel G2_Tot_rep1_2_plus_L006
+		longLabel G2_Tot_rep1_2_plus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep1_2_plus_L006 view=signal stage=G2 fraction=Tot rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_1_minus_L007_sorted.bw
+		shortLabel G2_Tot_rep2_1_minus_L007
+		longLabel G2_Tot_rep2_1_minus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep2_1_minus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_1_plus_L007_sorted.bw
+		shortLabel G2_Tot_rep2_1_plus_L007
+		longLabel G2_Tot_rep2_1_plus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep2_1_plus_L007 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_2_minus_L008_sorted.bw
+		shortLabel G2_Tot_rep2_2_minus_L008
+		longLabel G2_Tot_rep2_2_minus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep2_2_minus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Tot_rep2_2_plus_L008_sorted.bw
+		shortLabel G2_Tot_rep2_2_plus_L008
+		longLabel G2_Tot_rep2_2_plus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Tot_rep2_2_plus_L008 view=signal stage=G2 fraction=Tot rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel G0_Nucl_rep1_1_minus_L005
+		longLabel G0_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep1_1_minus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel G0_Nucl_rep1_1_plus_L005
+		longLabel G0_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep1_1_plus_L005 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel G0_Nucl_rep1_2_minus_L006
+		longLabel G0_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep1_2_minus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel G0_Nucl_rep1_2_plus_L006
+		longLabel G0_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep1_2_plus_L006 view=signal stage=G0 fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel G0_Nucl_rep2_1_minus_L007
+		longLabel G0_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep2_1_minus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel G0_Nucl_rep2_1_plus_L007
+		longLabel G0_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep2_1_plus_L007 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel G0_Nucl_rep2_2_minus_L008
+		longLabel G0_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep2_2_minus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel G0_Nucl_rep2_2_plus_L008
+		longLabel G0_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G0_Nucl_rep2_2_plus_L008 view=signal stage=G0 fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel G1_Nucl_rep1_1_minus_L005
+		longLabel G1_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep1_1_minus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel G1_Nucl_rep1_1_plus_L005
+		longLabel G1_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep1_1_plus_L005 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel G1_Nucl_rep1_2_minus_L006
+		longLabel G1_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep1_2_minus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel G1_Nucl_rep1_2_plus_L006
+		longLabel G1_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep1_2_plus_L006 view=signal stage=G1 fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel G1_Nucl_rep2_1_minus_L007
+		longLabel G1_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep2_1_minus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel G1_Nucl_rep2_1_plus_L007
+		longLabel G1_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep2_1_plus_L007 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel G1_Nucl_rep2_2_minus_L008
+		longLabel G1_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep2_2_minus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel G1_Nucl_rep2_2_plus_L008
+		longLabel G1_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G1_Nucl_rep2_2_plus_L008 view=signal stage=G1 fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel S_Nucl_rep1_1_minus_L005
+		longLabel S_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep1_1_minus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel S_Nucl_rep1_1_plus_L005
+		longLabel S_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep1_1_plus_L005 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel S_Nucl_rep1_2_minus_L006
+		longLabel S_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep1_2_minus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel S_Nucl_rep1_2_plus_L006
+		longLabel S_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep1_2_plus_L006 view=signal stage=S fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel S_Nucl_rep2_1_minus_L007
+		longLabel S_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep2_1_minus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel S_Nucl_rep2_1_plus_L007
+		longLabel S_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep2_1_plus_L007 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel S_Nucl_rep2_2_minus_L008
+		longLabel S_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep2_2_minus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/S_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel S_Nucl_rep2_2_plus_L008
+		longLabel S_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=S_Nucl_rep2_2_plus_L008 view=signal stage=S fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel G2_Nucl_rep1_1_minus_L005
+		longLabel G2_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep1_1_minus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel G2_Nucl_rep1_1_plus_L005
+		longLabel G2_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep1_1_plus_L005 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel G2_Nucl_rep1_2_minus_L006
+		longLabel G2_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep1_2_minus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel G2_Nucl_rep1_2_plus_L006
+		longLabel G2_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep1_2_plus_L006 view=signal stage=G2 fraction=Nucl rep=rep1 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel G2_Nucl_rep2_1_minus_L007
+		longLabel G2_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep2_1_minus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel G2_Nucl_rep2_1_plus_L007
+		longLabel G2_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep2_1_plus_L007 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel G2_Nucl_rep2_2_minus_L008
+		longLabel G2_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep2_2_minus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=minus
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel G2_Nucl_rep2_2_plus_L008
+		longLabel G2_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8		
+		visibility full
+		subGroups sample=G2_Nucl_rep2_2_plus_L008 view=signal stage=G2 fraction=Nucl rep=rep2 strand=plus
+		parent CAGEsignalBigWig on
 
