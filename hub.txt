@@ -2,5 +2,5 @@ hub ccc_trackHub
 shortLabel Cell Cycle CAGE
 longLabel Cap Analysis of Gene Expression across four cell cycle stages
 genomesFile genomes.txt
-email waw21@ic.ac.uk
-descriptionUrl https://raw.githubusercontent.com/wwhittick/ccc_track_hub/main/README.md
+email s.nikumbh@imperial.ac.uk
+descriptionUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/README.md
