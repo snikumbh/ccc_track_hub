@@ -6,7 +6,7 @@ visibility full
 priority 1
 compositeTrack on
 subGroup1 view Views signal=signal peak=peak
-subGroup2 sample sample_id 11_G0_Tot_rep1_1_plus_L005_sorted=G0_Tot_rep1_1_plus_L005_sorted 12_G0_Tot_rep1_1_minus_L005_sorted=G0_Tot_rep1_1_minus_L005_sorted 13_G0_Tot_rep1_2_plus_L006_sorted=G0_Tot_rep1_2_plus_L006_sorted 14_G0_Tot_rep1_2_minus_L006_sorted=G0_Tot_rep1_2_minus_L006_sorted 15_G0_Tot_rep2_1_plus_L007_sorted=G0_Tot_rep2_1_plus_L007_sorted 16_G0_Tot_rep2_1_minus_L007_sorted=G0_Tot_rep2_1_minus_L007_sorted 17_G0_Tot_rep2_2_plus_L008_sorted=G0_Tot_rep2_2_plus_L008_sorted 18_G0_Tot_rep2_2_minus_L008_sorted=G0_Tot_rep2_2_minus_L008_sorted 19_G1_Tot_rep1_1_plus_L005_sorted=G1_Tot_rep1_1_plus_L005_sorted 20_G1_Tot_rep1_1_minus_L005_sorted=G1_Tot_rep1_1_minus_L005_sorted 21_G1_Tot_rep1_2_plus_L006_sorted=G1_Tot_rep1_2_plus_L006_sorted 22_G1_Tot_rep1_2_minus_L006_sorted=G1_Tot_rep1_2_minus_L006_sorted 23_G1_Tot_rep2_1_plus_L007_sorted=G1_Tot_rep2_1_plus_L007_sorted 24_G1_Tot_rep2_1_minus_L007_sorted=G1_Tot_rep2_1_minus_L007_sorted 25_G1_Tot_rep2_2_plus_L008_sorted=G1_Tot_rep2_2_plus_L008_sorted 26_G1_Tot_rep2_2_minus_L008_sorted=G1_Tot_rep2_2_minus_L008_sorted 27_S_Tot_rep1_1_plus_L005_sorted=S_Tot_rep1_1_plus_L005_sorted 28_S_Tot_rep1_1_minus_L005_sorted=S_Tot_rep1_1_minus_L005_sorted 29_S_Tot_rep1_2_plus_L006_sorted=S_Tot_rep1_2_plus_L006_sorted 30_S_Tot_rep1_2_minus_L006_sorted=S_Tot_rep1_2_minus_L006_sorted 31_S_Tot_rep2_1_plus_L007_sorted=S_Tot_rep2_1_plus_L007_sorted 32_S_Tot_rep2_1_minus_L007_sorted=S_Tot_rep2_1_minus_L007_sorted 33_S_Tot_rep2_2_plus_L008_sorted=S_Tot_rep2_2_plus_L008_sorted 34_S_Tot_rep2_2_minus_L008_sorted=S_Tot_rep2_2_minus_L008_sorted 35_G2_Tot_rep1_1_plus_L005_sorted=G2_Tot_rep1_1_plus_L005_sorted 36_G2_Tot_rep1_1_minus_L005_sorted=G2_Tot_rep1_1_minus_L005_sorted 37_G2_Tot_rep1_2_plus_L006_sorted=G2_Tot_rep1_2_plus_L006_sorted 38_G2_Tot_rep1_2_minus_L006_sorted=G2_Tot_rep1_2_minus_L006_sorted 39_G2_Tot_rep2_1_plus_L007_sorted=G2_Tot_rep2_1_plus_L007_sorted 40_G2_Tot_rep2_1_minus_L007_sorted=G2_Tot_rep2_1_minus_L007_sorted 41_G2_Tot_rep2_2_plus_L008_sorted=G2_Tot_rep2_2_plus_L008_sorted 42_G2_Tot_rep2_2_minus_L008_sorted=G2_Tot_rep2_2_minus_L008_sorted 43_G0_Nucl_rep1_1_plus_L005_sorted=G0_Nucl_rep1_1_plus_L005_sorted 44_G0_Nucl_rep1_1_minus_L005_sorted=G0_Nucl_rep1_1_minus_L005_sorted 45_G0_Nucl_rep1_2_plus_L006_sorted=G0_Nucl_rep1_2_plus_L006_sorted 46_G0_Nucl_rep1_2_minus_L006_sorted=G0_Nucl_rep1_2_minus_L006_sorted 47_G0_Nucl_rep2_1_plus_L007_sorted=G0_Nucl_rep2_1_plus_L007_sorted 48_G0_Nucl_rep2_1_minus_L007_sorted=G0_Nucl_rep2_1_minus_L007_sorted 49_G0_Nucl_rep2_2_plus_L008_sorted=G0_Nucl_rep2_2_plus_L008_sorted 50_G0_Nucl_rep2_2_minus_L008_sorted=G0_Nucl_rep2_2_minus_L008_sorted 51_G1_Nucl_rep1_1_plus_L005_sorted=G1_Nucl_rep1_1_plus_L005_sorted 52_G1_Nucl_rep1_1_minus_L005_sorted=G1_Nucl_rep1_1_minus_L005_sorted 53_G1_Nucl_rep1_2_plus_L006_sorted=G1_Nucl_rep1_2_plus_L006_sorted 54_G1_Nucl_rep1_2_minus_L006_sorted=G1_Nucl_rep1_2_minus_L006_sorted 55_G1_Nucl_rep2_1_plus_L007_sorted=G1_Nucl_rep2_1_plus_L007_sorted 56_G1_Nucl_rep2_1_minus_L007_sorted=G1_Nucl_rep2_1_minus_L007_sorted 57_G1_Nucl_rep2_2_plus_L008_sorted=G1_Nucl_rep2_2_plus_L008_sorted 58_G1_Nucl_rep2_2_minus_L008_sorted=G1_Nucl_rep2_2_minus_L008_sorted 59_S_Nucl_rep1_1_plus_L005_sorted=S_Nucl_rep1_1_plus_L005_sorted 60_S_Nucl_rep1_1_minus_L005_sorted=S_Nucl_rep1_1_minus_L005_sorted 61_S_Nucl_rep1_2_plus_L006_sorted=S_Nucl_rep1_2_plus_L006_sorted 62_S_Nucl_rep1_2_minus_L006_sorted=S_Nucl_rep1_2_minus_L006_sorted 63_S_Nucl_rep2_1_plus_L007_sorted=S_Nucl_rep2_1_plus_L007_sorted 64_S_Nucl_rep2_1_minus_L007_sorted=S_Nucl_rep2_1_minus_L007_sorted 65_S_Nucl_rep2_2_plus_L008_sorted=S_Nucl_rep2_2_plus_L008_sorted 66_S_Nucl_rep2_2_minus_L008_sorted=S_Nucl_rep2_2_minus_L008_sorted 67_G2_Nucl_rep1_1_plus_L005_sorted=G2_Nucl_rep1_1_plus_L005_sorted 68_G2_Nucl_rep1_1_minus_L005_sorted=G2_Nucl_rep1_1_minus_L005_sorted 69_G2_Nucl_rep1_2_plus_L006_sorted=G2_Nucl_rep1_2_plus_L006_sorted 70_G2_Nucl_rep1_2_minus_L006_sorted=G2_Nucl_rep1_2_minus_L006_sorted 71_G2_Nucl_rep2_1_plus_L007_sorted=G2_Nucl_rep2_1_plus_L007_sorted 72_G2_Nucl_rep2_1_minus_L007_sorted=G2_Nucl_rep2_1_minus_L007_sorted 73_G2_Nucl_rep2_2_plus_L008_sorted=G2_Nucl_rep2_2_plus_L008_sorted 74_G2_Nucl_rep2_2_minus_L008_sorted=G2_Nucl_rep2_2_minus_L008_sorted
+subGroup2 sample sample_id 1_G0_Tot_rep1_1_plus_L005_sorted=G0_Tot_rep1_1_plus_L005_sorted 2_G0_Tot_rep1_1_minus_L005_sorted=G0_Tot_rep1_1_minus_L005_sorted 3_G0_Tot_rep1_2_plus_L006_sorted=G0_Tot_rep1_2_plus_L006_sorted 4_G0_Tot_rep1_2_minus_L006_sorted=G0_Tot_rep1_2_minus_L006_sorted 5_G0_Tot_rep2_1_plus_L007_sorted=G0_Tot_rep2_1_plus_L007_sorted 6_G0_Tot_rep2_1_minus_L007_sorted=G0_Tot_rep2_1_minus_L007_sorted 7_G0_Tot_rep2_2_plus_L008_sorted=G0_Tot_rep2_2_plus_L008_sorted 8_G0_Tot_rep2_2_minus_L008_sorted=G0_Tot_rep2_2_minus_L008_sorted 9_G1_Tot_rep1_1_plus_L005_sorted=G1_Tot_rep1_1_plus_L005_sorted 10_G1_Tot_rep1_1_minus_L005_sorted=G1_Tot_rep1_1_minus_L005_sorted 11_G1_Tot_rep1_2_plus_L006_sorted=G1_Tot_rep1_2_plus_L006_sorted 12_G1_Tot_rep1_2_minus_L006_sorted=G1_Tot_rep1_2_minus_L006_sorted 13_G1_Tot_rep2_1_plus_L007_sorted=G1_Tot_rep2_1_plus_L007_sorted 14_G1_Tot_rep2_1_minus_L007_sorted=G1_Tot_rep2_1_minus_L007_sorted 15_G1_Tot_rep2_2_plus_L008_sorted=G1_Tot_rep2_2_plus_L008_sorted 16_G1_Tot_rep2_2_minus_L008_sorted=G1_Tot_rep2_2_minus_L008_sorted 17_S_Tot_rep1_1_plus_L005_sorted=S_Tot_rep1_1_plus_L005_sorted 18_S_Tot_rep1_1_minus_L005_sorted=S_Tot_rep1_1_minus_L005_sorted 19_S_Tot_rep1_2_plus_L006_sorted=S_Tot_rep1_2_plus_L006_sorted 20_S_Tot_rep1_2_minus_L006_sorted=S_Tot_rep1_2_minus_L006_sorted 21_S_Tot_rep2_1_plus_L007_sorted=S_Tot_rep2_1_plus_L007_sorted 22_S_Tot_rep2_1_minus_L007_sorted=S_Tot_rep2_1_minus_L007_sorted 23_S_Tot_rep2_2_plus_L008_sorted=S_Tot_rep2_2_plus_L008_sorted 24_S_Tot_rep2_2_minus_L008_sorted=S_Tot_rep2_2_minus_L008_sorted 25_G2_Tot_rep1_1_plus_L005_sorted=G2_Tot_rep1_1_plus_L005_sorted 26_G2_Tot_rep1_1_minus_L005_sorted=G2_Tot_rep1_1_minus_L005_sorted 27_G2_Tot_rep1_2_plus_L006_sorted=G2_Tot_rep1_2_plus_L006_sorted 28_G2_Tot_rep1_2_minus_L006_sorted=G2_Tot_rep1_2_minus_L006_sorted 29_G2_Tot_rep2_1_plus_L007_sorted=G2_Tot_rep2_1_plus_L007_sorted 30_G2_Tot_rep2_1_minus_L007_sorted=G2_Tot_rep2_1_minus_L007_sorted 31_G2_Tot_rep2_2_plus_L008_sorted=G2_Tot_rep2_2_plus_L008_sorted 32_G2_Tot_rep2_2_minus_L008_sorted=G2_Tot_rep2_2_minus_L008_sorted 33_G0_Nucl_rep1_1_plus_L005_sorted=G0_Nucl_rep1_1_plus_L005_sorted 34_G0_Nucl_rep1_1_minus_L005_sorted=G0_Nucl_rep1_1_minus_L005_sorted 35_G0_Nucl_rep1_2_plus_L006_sorted=G0_Nucl_rep1_2_plus_L006_sorted 36_G0_Nucl_rep1_2_minus_L006_sorted=G0_Nucl_rep1_2_minus_L006_sorted 37_G0_Nucl_rep2_1_plus_L007_sorted=G0_Nucl_rep2_1_plus_L007_sorted 38_G0_Nucl_rep2_1_minus_L007_sorted=G0_Nucl_rep2_1_minus_L007_sorted 39_G0_Nucl_rep2_2_plus_L008_sorted=G0_Nucl_rep2_2_plus_L008_sorted 40_G0_Nucl_rep2_2_minus_L008_sorted=G0_Nucl_rep2_2_minus_L008_sorted 41_G1_Nucl_rep1_1_plus_L005_sorted=G1_Nucl_rep1_1_plus_L005_sorted 42_G1_Nucl_rep1_1_minus_L005_sorted=G1_Nucl_rep1_1_minus_L005_sorted 43_G1_Nucl_rep1_2_plus_L006_sorted=G1_Nucl_rep1_2_plus_L006_sorted 44_G1_Nucl_rep1_2_minus_L006_sorted=G1_Nucl_rep1_2_minus_L006_sorted 45_G1_Nucl_rep2_1_plus_L007_sorted=G1_Nucl_rep2_1_plus_L007_sorted 46_G1_Nucl_rep2_1_minus_L007_sorted=G1_Nucl_rep2_1_minus_L007_sorted 47_G1_Nucl_rep2_2_plus_L008_sorted=G1_Nucl_rep2_2_plus_L008_sorted 48_G1_Nucl_rep2_2_minus_L008_sorted=G1_Nucl_rep2_2_minus_L008_sorted 49_S_Nucl_rep1_1_plus_L005_sorted=S_Nucl_rep1_1_plus_L005_sorted 50_S_Nucl_rep1_1_minus_L005_sorted=S_Nucl_rep1_1_minus_L005_sorted 51_S_Nucl_rep1_2_plus_L006_sorted=S_Nucl_rep1_2_plus_L006_sorted 52_S_Nucl_rep1_2_minus_L006_sorted=S_Nucl_rep1_2_minus_L006_sorted 53_S_Nucl_rep2_1_plus_L007_sorted=S_Nucl_rep2_1_plus_L007_sorted 54_S_Nucl_rep2_1_minus_L007_sorted=S_Nucl_rep2_1_minus_L007_sorted 55_S_Nucl_rep2_2_plus_L008_sorted=S_Nucl_rep2_2_plus_L008_sorted 56_S_Nucl_rep2_2_minus_L008_sorted=S_Nucl_rep2_2_minus_L008_sorted 57_G2_Nucl_rep1_1_plus_L005_sorted=G2_Nucl_rep1_1_plus_L005_sorted 58_G2_Nucl_rep1_1_minus_L005_sorted=G2_Nucl_rep1_1_minus_L005_sorted 59_G2_Nucl_rep1_2_plus_L006_sorted=G2_Nucl_rep1_2_plus_L006_sorted 60_G2_Nucl_rep1_2_minus_L006_sorted=G2_Nucl_rep1_2_minus_L006_sorted 61_G2_Nucl_rep2_1_plus_L007_sorted=G2_Nucl_rep2_1_plus_L007_sorted 62_G2_Nucl_rep2_1_minus_L007_sorted=G2_Nucl_rep2_1_minus_L007_sorted 63_G2_Nucl_rep2_2_plus_L008_sorted=G2_Nucl_rep2_2_plus_L008_sorted 64_G2_Nucl_rep2_2_minus_L008_sorted=G2_Nucl_rep2_2_minus_L008_sorted
 subGroup4 fraction rna_fraction ATOT=Tot BNUC=Nucl
 subGroup3 stage developmental_stage AG0=G0 AG1=G1 B0S=S CG2=G2
 subGroup5 rep replicates rep1_1=rep1_1 rep1_2=rep1_2 rep2_1=rep2_1 rep2_2=rep2_2
@@ -32,7 +32,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep1_1_plus_L005_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_1 strand=APLUS
+		subGroups sample=1_G0_Tot_rep1_1_plus_L005_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 2_G0_Tot_rep1_1_minus_L005_sorted
@@ -44,7 +44,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep1_1_minus_L005_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_1 strand=BMINUS
+		subGroups sample=2_G0_Tot_rep1_1_minus_L005_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 3_G0_Tot_rep1_2_plus_L006_sorted
@@ -56,7 +56,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep1_2_plus_L006_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_2 strand=APLUS
+		subGroups sample=3_G0_Tot_rep1_2_plus_L006_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 4_G0_Tot_rep1_2_minus_L006_sorted
@@ -68,7 +68,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep1_2_minus_L006_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_2 strand=BMINUS
+		subGroups sample=4_G0_Tot_rep1_2_minus_L006_sorted view=signal stage=AG0 fraction=ATOT rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 5_G0_Tot_rep2_1_plus_L007_sorted
@@ -80,7 +80,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep2_1_plus_L007_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_1 strand=APLUS
+		subGroups sample=5_G0_Tot_rep2_1_plus_L007_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 6_G0_Tot_rep2_1_minus_L007_sorted
@@ -92,7 +92,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep2_1_minus_L007_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_1 strand=BMINUS
+		subGroups sample=6_G0_Tot_rep2_1_minus_L007_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 7_G0_Tot_rep2_2_plus_L008_sorted
@@ -104,7 +104,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep2_2_plus_L008_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_2 strand=APLUS
+		subGroups sample=7_G0_Tot_rep2_2_plus_L008_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 8_G0_Tot_rep2_2_minus_L008_sorted
@@ -116,7 +116,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Tot_rep2_2_minus_L008_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_2 strand=BMINUS
+		subGroups sample=8_G0_Tot_rep2_2_minus_L008_sorted view=signal stage=AG0 fraction=ATOT rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 9_G1_Tot_rep1_1_plus_L005_sorted
@@ -128,7 +128,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep1_1_plus_L005_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_1 strand=APLUS
+		subGroups sample=9_G1_Tot_rep1_1_plus_L005_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 10_G1_Tot_rep1_1_minus_L005_sorted
@@ -140,7 +140,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep1_1_minus_L005_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_1 strand=BMINUS
+		subGroups sample=10_G1_Tot_rep1_1_minus_L005_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 11_G1_Tot_rep1_2_plus_L006_sorted
@@ -152,7 +152,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep1_2_plus_L006_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_2 strand=APLUS
+		subGroups sample=11_G1_Tot_rep1_2_plus_L006_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 12_G1_Tot_rep1_2_minus_L006_sorted
@@ -164,7 +164,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep1_2_minus_L006_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_2 strand=BMINUS
+		subGroups sample=12_G1_Tot_rep1_2_minus_L006_sorted view=signal stage=AG1 fraction=ATOT rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 13_G1_Tot_rep2_1_plus_L007_sorted
@@ -176,7 +176,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep2_1_plus_L007_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_1 strand=APLUS
+		subGroups sample=13_G1_Tot_rep2_1_plus_L007_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 14_G1_Tot_rep2_1_minus_L007_sorted
@@ -188,7 +188,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep2_1_minus_L007_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_1 strand=BMINUS
+		subGroups sample=14_G1_Tot_rep2_1_minus_L007_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 15_G1_Tot_rep2_2_plus_L008_sorted
@@ -200,7 +200,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep2_2_plus_L008_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_2 strand=APLUS
+		subGroups sample=15_G1_Tot_rep2_2_plus_L008_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 16_G1_Tot_rep2_2_minus_L008_sorted
@@ -212,7 +212,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Tot_rep2_2_minus_L008_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_2 strand=BMINUS
+		subGroups sample=16_G1_Tot_rep2_2_minus_L008_sorted view=signal stage=AG1 fraction=ATOT rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 17_S_Tot_rep1_1_plus_L005_sorted
@@ -224,7 +224,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep1_1_plus_L005_sorted view=signal stage=B0S fraction=ATOT rep=rep1_1 strand=APLUS
+		subGroups sample=17_S_Tot_rep1_1_plus_L005_sorted view=signal stage=B0S fraction=ATOT rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 18_S_Tot_rep1_1_minus_L005_sorted
@@ -236,7 +236,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep1_1_minus_L005_sorted view=signal stage=B0S fraction=ATOT rep=rep1_1 strand=BMINUS
+		subGroups sample=18_S_Tot_rep1_1_minus_L005_sorted view=signal stage=B0S fraction=ATOT rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 19_S_Tot_rep1_2_plus_L006_sorted
@@ -248,7 +248,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep1_2_plus_L006_sorted view=signal stage=B0S fraction=ATOT rep=rep1_2 strand=APLUS
+		subGroups sample=19_S_Tot_rep1_2_plus_L006_sorted view=signal stage=B0S fraction=ATOT rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 20_S_Tot_rep1_2_minus_L006_sorted
@@ -260,7 +260,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep1_2_minus_L006_sorted view=signal stage=B0S fraction=ATOT rep=rep1_2 strand=BMINUS
+		subGroups sample=20_S_Tot_rep1_2_minus_L006_sorted view=signal stage=B0S fraction=ATOT rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 21_S_Tot_rep2_1_plus_L007_sorted
@@ -272,7 +272,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep2_1_plus_L007_sorted view=signal stage=B0S fraction=ATOT rep=rep2_1 strand=APLUS
+		subGroups sample=21_S_Tot_rep2_1_plus_L007_sorted view=signal stage=B0S fraction=ATOT rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 22_S_Tot_rep2_1_minus_L007_sorted
@@ -284,7 +284,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep2_1_minus_L007_sorted view=signal stage=B0S fraction=ATOT rep=rep2_1 strand=BMINUS
+		subGroups sample=22_S_Tot_rep2_1_minus_L007_sorted view=signal stage=B0S fraction=ATOT rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 23_S_Tot_rep2_2_plus_L008_sorted
@@ -296,7 +296,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep2_2_plus_L008_sorted view=signal stage=B0S fraction=ATOT rep=rep2_2 strand=APLUS
+		subGroups sample=23_S_Tot_rep2_2_plus_L008_sorted view=signal stage=B0S fraction=ATOT rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 24_S_Tot_rep2_2_minus_L008_sorted
@@ -308,7 +308,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Tot_rep2_2_minus_L008_sorted view=signal stage=B0S fraction=ATOT rep=rep2_2 strand=BMINUS
+		subGroups sample=24_S_Tot_rep2_2_minus_L008_sorted view=signal stage=B0S fraction=ATOT rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 25_G2_Tot_rep1_1_plus_L005_sorted
@@ -320,7 +320,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep1_1_plus_L005_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_1 strand=APLUS
+		subGroups sample=25_G2_Tot_rep1_1_plus_L005_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 26_G2_Tot_rep1_1_minus_L005_sorted
@@ -332,7 +332,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep1_1_minus_L005_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_1 strand=BMINUS
+		subGroups sample=26_G2_Tot_rep1_1_minus_L005_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 27_G2_Tot_rep1_2_plus_L006_sorted
@@ -344,7 +344,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep1_2_plus_L006_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_2 strand=APLUS
+		subGroups sample=27_G2_Tot_rep1_2_plus_L006_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 28_G2_Tot_rep1_2_minus_L006_sorted
@@ -356,7 +356,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep1_2_minus_L006_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_2 strand=BMINUS
+		subGroups sample=28_G2_Tot_rep1_2_minus_L006_sorted view=signal stage=CG2 fraction=ATOT rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 29_G2_Tot_rep2_1_plus_L007_sorted
@@ -368,7 +368,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep2_1_plus_L007_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_1 strand=APLUS
+		subGroups sample=29_G2_Tot_rep2_1_plus_L007_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 30_G2_Tot_rep2_1_minus_L007_sorted
@@ -380,7 +380,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep2_1_minus_L007_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_1 strand=BMINUS
+		subGroups sample=30_G2_Tot_rep2_1_minus_L007_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 31_G2_Tot_rep2_2_plus_L008_sorted
@@ -392,7 +392,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep2_2_plus_L008_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_2 strand=APLUS
+		subGroups sample=31_G2_Tot_rep2_2_plus_L008_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 32_G2_Tot_rep2_2_minus_L008_sorted
@@ -404,7 +404,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Tot_rep2_2_minus_L008_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_2 strand=BMINUS
+		subGroups sample=32_G2_Tot_rep2_2_minus_L008_sorted view=signal stage=CG2 fraction=ATOT rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 33_G0_Nucl_rep1_1_plus_L005_sorted
@@ -416,7 +416,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep1_1_plus_L005_sorted view=signal stage=AG0 fraction= rep=rep1_1 strand=APLUS
+		subGroups sample=33_G0_Nucl_rep1_1_plus_L005_sorted view=signal stage=AG0 fraction= rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 34_G0_Nucl_rep1_1_minus_L005_sorted
@@ -428,7 +428,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep1_1_minus_L005_sorted view=signal stage=AG0 fraction= rep=rep1_1 strand=BMINUS
+		subGroups sample=34_G0_Nucl_rep1_1_minus_L005_sorted view=signal stage=AG0 fraction= rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 35_G0_Nucl_rep1_2_plus_L006_sorted
@@ -440,7 +440,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep1_2_plus_L006_sorted view=signal stage=AG0 fraction= rep=rep1_2 strand=APLUS
+		subGroups sample=35_G0_Nucl_rep1_2_plus_L006_sorted view=signal stage=AG0 fraction= rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 36_G0_Nucl_rep1_2_minus_L006_sorted
@@ -452,7 +452,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep1_2_minus_L006_sorted view=signal stage=AG0 fraction= rep=rep1_2 strand=BMINUS
+		subGroups sample=36_G0_Nucl_rep1_2_minus_L006_sorted view=signal stage=AG0 fraction= rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 37_G0_Nucl_rep2_1_plus_L007_sorted
@@ -464,7 +464,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep2_1_plus_L007_sorted view=signal stage=AG0 fraction= rep=rep2_1 strand=APLUS
+		subGroups sample=37_G0_Nucl_rep2_1_plus_L007_sorted view=signal stage=AG0 fraction= rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 38_G0_Nucl_rep2_1_minus_L007_sorted
@@ -476,7 +476,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep2_1_minus_L007_sorted view=signal stage=AG0 fraction= rep=rep2_1 strand=BMINUS
+		subGroups sample=38_G0_Nucl_rep2_1_minus_L007_sorted view=signal stage=AG0 fraction= rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 39_G0_Nucl_rep2_2_plus_L008_sorted
@@ -488,7 +488,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep2_2_plus_L008_sorted view=signal stage=AG0 fraction= rep=rep2_2 strand=APLUS
+		subGroups sample=39_G0_Nucl_rep2_2_plus_L008_sorted view=signal stage=AG0 fraction= rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 40_G0_Nucl_rep2_2_minus_L008_sorted
@@ -500,7 +500,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G0_Nucl_rep2_2_minus_L008_sorted view=signal stage=AG0 fraction= rep=rep2_2 strand=BMINUS
+		subGroups sample=40_G0_Nucl_rep2_2_minus_L008_sorted view=signal stage=AG0 fraction= rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 41_G1_Nucl_rep1_1_plus_L005_sorted
@@ -512,7 +512,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep1_1_plus_L005_sorted view=signal stage=AG1 fraction= rep=rep1_1 strand=APLUS
+		subGroups sample=41_G1_Nucl_rep1_1_plus_L005_sorted view=signal stage=AG1 fraction= rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 42_G1_Nucl_rep1_1_minus_L005_sorted
@@ -524,7 +524,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep1_1_minus_L005_sorted view=signal stage=AG1 fraction= rep=rep1_1 strand=BMINUS
+		subGroups sample=42_G1_Nucl_rep1_1_minus_L005_sorted view=signal stage=AG1 fraction= rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 43_G1_Nucl_rep1_2_plus_L006_sorted
@@ -536,7 +536,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep1_2_plus_L006_sorted view=signal stage=AG1 fraction= rep=rep1_2 strand=APLUS
+		subGroups sample=43_G1_Nucl_rep1_2_plus_L006_sorted view=signal stage=AG1 fraction= rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 44_G1_Nucl_rep1_2_minus_L006_sorted
@@ -548,7 +548,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep1_2_minus_L006_sorted view=signal stage=AG1 fraction= rep=rep1_2 strand=BMINUS
+		subGroups sample=44_G1_Nucl_rep1_2_minus_L006_sorted view=signal stage=AG1 fraction= rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 45_G1_Nucl_rep2_1_plus_L007_sorted
@@ -560,7 +560,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep2_1_plus_L007_sorted view=signal stage=AG1 fraction= rep=rep2_1 strand=APLUS
+		subGroups sample=45_G1_Nucl_rep2_1_plus_L007_sorted view=signal stage=AG1 fraction= rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 46_G1_Nucl_rep2_1_minus_L007_sorted
@@ -572,7 +572,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep2_1_minus_L007_sorted view=signal stage=AG1 fraction= rep=rep2_1 strand=BMINUS
+		subGroups sample=46_G1_Nucl_rep2_1_minus_L007_sorted view=signal stage=AG1 fraction= rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 47_G1_Nucl_rep2_2_plus_L008_sorted
@@ -584,7 +584,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep2_2_plus_L008_sorted view=signal stage=AG1 fraction= rep=rep2_2 strand=APLUS
+		subGroups sample=47_G1_Nucl_rep2_2_plus_L008_sorted view=signal stage=AG1 fraction= rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 48_G1_Nucl_rep2_2_minus_L008_sorted
@@ -596,7 +596,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G1_Nucl_rep2_2_minus_L008_sorted view=signal stage=AG1 fraction= rep=rep2_2 strand=BMINUS
+		subGroups sample=48_G1_Nucl_rep2_2_minus_L008_sorted view=signal stage=AG1 fraction= rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 49_S_Nucl_rep1_1_plus_L005_sorted
@@ -608,7 +608,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep1_1_plus_L005_sorted view=signal stage=B0S fraction= rep=rep1_1 strand=APLUS
+		subGroups sample=49_S_Nucl_rep1_1_plus_L005_sorted view=signal stage=B0S fraction= rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 50_S_Nucl_rep1_1_minus_L005_sorted
@@ -620,7 +620,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep1_1_minus_L005_sorted view=signal stage=B0S fraction= rep=rep1_1 strand=BMINUS
+		subGroups sample=50_S_Nucl_rep1_1_minus_L005_sorted view=signal stage=B0S fraction= rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 51_S_Nucl_rep1_2_plus_L006_sorted
@@ -632,7 +632,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep1_2_plus_L006_sorted view=signal stage=B0S fraction= rep=rep1_2 strand=APLUS
+		subGroups sample=51_S_Nucl_rep1_2_plus_L006_sorted view=signal stage=B0S fraction= rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 52_S_Nucl_rep1_2_minus_L006_sorted
@@ -644,7 +644,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep1_2_minus_L006_sorted view=signal stage=B0S fraction= rep=rep1_2 strand=BMINUS
+		subGroups sample=52_S_Nucl_rep1_2_minus_L006_sorted view=signal stage=B0S fraction= rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 53_S_Nucl_rep2_1_plus_L007_sorted
@@ -656,7 +656,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep2_1_plus_L007_sorted view=signal stage=B0S fraction= rep=rep2_1 strand=APLUS
+		subGroups sample=53_S_Nucl_rep2_1_plus_L007_sorted view=signal stage=B0S fraction= rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 54_S_Nucl_rep2_1_minus_L007_sorted
@@ -668,7 +668,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep2_1_minus_L007_sorted view=signal stage=B0S fraction= rep=rep2_1 strand=BMINUS
+		subGroups sample=54_S_Nucl_rep2_1_minus_L007_sorted view=signal stage=B0S fraction= rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 55_S_Nucl_rep2_2_plus_L008_sorted
@@ -680,7 +680,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep2_2_plus_L008_sorted view=signal stage=B0S fraction= rep=rep2_2 strand=APLUS
+		subGroups sample=55_S_Nucl_rep2_2_plus_L008_sorted view=signal stage=B0S fraction= rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 56_S_Nucl_rep2_2_minus_L008_sorted
@@ -692,7 +692,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=S_Nucl_rep2_2_minus_L008_sorted view=signal stage=B0S fraction= rep=rep2_2 strand=BMINUS
+		subGroups sample=56_S_Nucl_rep2_2_minus_L008_sorted view=signal stage=B0S fraction= rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 57_G2_Nucl_rep1_1_plus_L005_sorted
@@ -704,7 +704,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep1_1_plus_L005_sorted view=signal stage=CG2 fraction= rep=rep1_1 strand=APLUS
+		subGroups sample=57_G2_Nucl_rep1_1_plus_L005_sorted view=signal stage=CG2 fraction= rep=rep1_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 58_G2_Nucl_rep1_1_minus_L005_sorted
@@ -716,7 +716,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep1_1_minus_L005_sorted view=signal stage=CG2 fraction= rep=rep1_1 strand=BMINUS
+		subGroups sample=58_G2_Nucl_rep1_1_minus_L005_sorted view=signal stage=CG2 fraction= rep=rep1_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 59_G2_Nucl_rep1_2_plus_L006_sorted
@@ -728,7 +728,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep1_2_plus_L006_sorted view=signal stage=CG2 fraction= rep=rep1_2 strand=APLUS
+		subGroups sample=59_G2_Nucl_rep1_2_plus_L006_sorted view=signal stage=CG2 fraction= rep=rep1_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 60_G2_Nucl_rep1_2_minus_L006_sorted
@@ -740,7 +740,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep1_2_minus_L006_sorted view=signal stage=CG2 fraction= rep=rep1_2 strand=BMINUS
+		subGroups sample=60_G2_Nucl_rep1_2_minus_L006_sorted view=signal stage=CG2 fraction= rep=rep1_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 61_G2_Nucl_rep2_1_plus_L007_sorted
@@ -752,7 +752,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep2_1_plus_L007_sorted view=signal stage=CG2 fraction= rep=rep2_1 strand=APLUS
+		subGroups sample=61_G2_Nucl_rep2_1_plus_L007_sorted view=signal stage=CG2 fraction= rep=rep2_1 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 62_G2_Nucl_rep2_1_minus_L007_sorted
@@ -764,7 +764,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep2_1_minus_L007_sorted view=signal stage=CG2 fraction= rep=rep2_1 strand=BMINUS
+		subGroups sample=62_G2_Nucl_rep2_1_minus_L007_sorted view=signal stage=CG2 fraction= rep=rep2_1 strand=BMINUS
 		parent CAGEsignalBigWig on
 
 		track 63_G2_Nucl_rep2_2_plus_L008_sorted
@@ -776,7 +776,7 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep2_2_plus_L008_sorted view=signal stage=CG2 fraction= rep=rep2_2 strand=APLUS
+		subGroups sample=63_G2_Nucl_rep2_2_plus_L008_sorted view=signal stage=CG2 fraction= rep=rep2_2 strand=APLUS
 		parent CAGEsignalBigWig on
 
 		track 64_G2_Nucl_rep2_2_minus_L008_sorted
@@ -788,6 +788,6 @@ filterComposite dimA dimB
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
-		subGroups sample=G2_Nucl_rep2_2_minus_L008_sorted view=signal stage=CG2 fraction= rep=rep2_2 strand=BMINUS
+		subGroups sample=64_G2_Nucl_rep2_2_minus_L008_sorted view=signal stage=CG2 fraction= rep=rep2_2 strand=BMINUS
 		parent CAGEsignalBigWig on
 
