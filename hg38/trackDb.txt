@@ -13,7 +13,7 @@ subGroup5 rep replicates rep1_1=rep1_1 rep1_2=rep1_2 rep2_1=rep2_1 rep2_2=rep2_2
 subGroup6 strand seq_strand APLUS=plus BMINUS=minus
 dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 filterComposite dimA dimB
-sortOrder fraction=+ strand=-
+sortOrder fraction=+ stage=- rep=+ strand=-
 
 
 	track CAGEsignalBigWig
