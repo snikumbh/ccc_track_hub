@@ -28,6 +28,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_1_plus_L005_sorted.bw
 		shortLabel G0_Tot_rep1_1_plus_L005
 		longLabel G0_Tot_rep1_1_plus_L005_sorted
+		priority 1.1
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -40,6 +41,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_1_minus_L005_sorted.bw
 		shortLabel G0_Tot_rep1_1_minus_L005
 		longLabel G0_Tot_rep1_1_minus_L005_sorted
+		priority 1.3
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -52,6 +54,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_2_plus_L006_sorted.bw
 		shortLabel G0_Tot_rep1_2_plus_L006
 		longLabel G0_Tot_rep1_2_plus_L006_sorted
+		priority 1.6
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -64,6 +67,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_2_minus_L006_sorted.bw
 		shortLabel G0_Tot_rep1_2_minus_L006
 		longLabel G0_Tot_rep1_2_minus_L006_sorted
+		priority 2
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -76,6 +80,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_1_plus_L007_sorted.bw
 		shortLabel G0_Tot_rep2_1_plus_L007
 		longLabel G0_Tot_rep2_1_plus_L007_sorted
+		priority 2.5
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -88,6 +93,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_1_minus_L007_sorted.bw
 		shortLabel G0_Tot_rep2_1_minus_L007
 		longLabel G0_Tot_rep2_1_minus_L007_sorted
+		priority 3.1
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -100,6 +106,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_2_plus_L008_sorted.bw
 		shortLabel G0_Tot_rep2_2_plus_L008
 		longLabel G0_Tot_rep2_2_plus_L008_sorted
+		priority 3.8
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -112,6 +119,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_2_minus_L008_sorted.bw
 		shortLabel G0_Tot_rep2_2_minus_L008
 		longLabel G0_Tot_rep2_2_minus_L008_sorted
+		priority 4.6
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -124,6 +132,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_1_plus_L005_sorted.bw
 		shortLabel G1_Tot_rep1_1_plus_L005
 		longLabel G1_Tot_rep1_1_plus_L005_sorted
+		priority 5.5
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -136,6 +145,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_1_minus_L005_sorted.bw
 		shortLabel G1_Tot_rep1_1_minus_L005
 		longLabel G1_Tot_rep1_1_minus_L005_sorted
+		priority 6.5
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -148,6 +158,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_2_plus_L006_sorted.bw
 		shortLabel G1_Tot_rep1_2_plus_L006
 		longLabel G1_Tot_rep1_2_plus_L006_sorted
+		priority 7.6
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -160,6 +171,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_2_minus_L006_sorted.bw
 		shortLabel G1_Tot_rep1_2_minus_L006
 		longLabel G1_Tot_rep1_2_minus_L006_sorted
+		priority 8.8
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -172,6 +184,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_1_plus_L007_sorted.bw
 		shortLabel G1_Tot_rep2_1_plus_L007
 		longLabel G1_Tot_rep2_1_plus_L007_sorted
+		priority 10.1
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -184,6 +197,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_1_minus_L007_sorted.bw
 		shortLabel G1_Tot_rep2_1_minus_L007
 		longLabel G1_Tot_rep2_1_minus_L007_sorted
+		priority 11.5
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -196,6 +210,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_2_plus_L008_sorted.bw
 		shortLabel G1_Tot_rep2_2_plus_L008
 		longLabel G1_Tot_rep2_2_plus_L008_sorted
+		priority 13
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -208,6 +223,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_2_minus_L008_sorted.bw
 		shortLabel G1_Tot_rep2_2_minus_L008
 		longLabel G1_Tot_rep2_2_minus_L008_sorted
+		priority 14.6
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -220,6 +236,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_1_plus_L005_sorted.bw
 		shortLabel S_Tot_rep1_1_plus_L005
 		longLabel S_Tot_rep1_1_plus_L005_sorted
+		priority 16.3
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -232,6 +249,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_1_minus_L005_sorted.bw
 		shortLabel S_Tot_rep1_1_minus_L005
 		longLabel S_Tot_rep1_1_minus_L005_sorted
+		priority 18.1
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -244,6 +262,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_2_plus_L006_sorted.bw
 		shortLabel S_Tot_rep1_2_plus_L006
 		longLabel S_Tot_rep1_2_plus_L006_sorted
+		priority 20
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -256,6 +275,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_2_minus_L006_sorted.bw
 		shortLabel S_Tot_rep1_2_minus_L006
 		longLabel S_Tot_rep1_2_minus_L006_sorted
+		priority 22
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -268,6 +288,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_1_plus_L007_sorted.bw
 		shortLabel S_Tot_rep2_1_plus_L007
 		longLabel S_Tot_rep2_1_plus_L007_sorted
+		priority 24.1
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -280,6 +301,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_1_minus_L007_sorted.bw
 		shortLabel S_Tot_rep2_1_minus_L007
 		longLabel S_Tot_rep2_1_minus_L007_sorted
+		priority 26.3
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -292,6 +314,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_2_plus_L008_sorted.bw
 		shortLabel S_Tot_rep2_2_plus_L008
 		longLabel S_Tot_rep2_2_plus_L008_sorted
+		priority 28.6
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -304,6 +327,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_2_minus_L008_sorted.bw
 		shortLabel S_Tot_rep2_2_minus_L008
 		longLabel S_Tot_rep2_2_minus_L008_sorted
+		priority 31
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -316,6 +340,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_1_plus_L005_sorted.bw
 		shortLabel G2_Tot_rep1_1_plus_L005
 		longLabel G2_Tot_rep1_1_plus_L005_sorted
+		priority 33.5
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -328,6 +353,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_1_minus_L005_sorted.bw
 		shortLabel G2_Tot_rep1_1_minus_L005
 		longLabel G2_Tot_rep1_1_minus_L005_sorted
+		priority 36.1
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -340,6 +366,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_2_plus_L006_sorted.bw
 		shortLabel G2_Tot_rep1_2_plus_L006
 		longLabel G2_Tot_rep1_2_plus_L006_sorted
+		priority 38.8
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -352,6 +379,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_2_minus_L006_sorted.bw
 		shortLabel G2_Tot_rep1_2_minus_L006
 		longLabel G2_Tot_rep1_2_minus_L006_sorted
+		priority 41.6
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -364,6 +392,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_1_plus_L007_sorted.bw
 		shortLabel G2_Tot_rep2_1_plus_L007
 		longLabel G2_Tot_rep2_1_plus_L007_sorted
+		priority 44.5
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -376,6 +405,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_1_minus_L007_sorted.bw
 		shortLabel G2_Tot_rep2_1_minus_L007
 		longLabel G2_Tot_rep2_1_minus_L007_sorted
+		priority 47.5
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -388,6 +418,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_2_plus_L008_sorted.bw
 		shortLabel G2_Tot_rep2_2_plus_L008
 		longLabel G2_Tot_rep2_2_plus_L008_sorted
+		priority 50.6
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -400,6 +431,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_2_minus_L008_sorted.bw
 		shortLabel G2_Tot_rep2_2_minus_L008
 		longLabel G2_Tot_rep2_2_minus_L008_sorted
+		priority 53.8
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -412,6 +444,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_plus_L005_sorted.bw
 		shortLabel G0_Nucl_rep1_1_plus_L005
 		longLabel G0_Nucl_rep1_1_plus_L005_sorted
+		priority 57.1
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -424,6 +457,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_minus_L005_sorted.bw
 		shortLabel G0_Nucl_rep1_1_minus_L005
 		longLabel G0_Nucl_rep1_1_minus_L005_sorted
+		priority 60.5
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -436,6 +470,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw
 		shortLabel G0_Nucl_rep1_2_plus_L006
 		longLabel G0_Nucl_rep1_2_plus_L006_sorted
+		priority 64
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -448,6 +483,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_minus_L006_sorted.bw
 		shortLabel G0_Nucl_rep1_2_minus_L006
 		longLabel G0_Nucl_rep1_2_minus_L006_sorted
+		priority 67.6
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -460,6 +496,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_plus_L007_sorted.bw
 		shortLabel G0_Nucl_rep2_1_plus_L007
 		longLabel G0_Nucl_rep2_1_plus_L007_sorted
+		priority 71.3
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -472,6 +509,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_minus_L007_sorted.bw
 		shortLabel G0_Nucl_rep2_1_minus_L007
 		longLabel G0_Nucl_rep2_1_minus_L007_sorted
+		priority 75.1
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -484,6 +522,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_plus_L008_sorted.bw
 		shortLabel G0_Nucl_rep2_2_plus_L008
 		longLabel G0_Nucl_rep2_2_plus_L008_sorted
+		priority 79
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -496,6 +535,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_minus_L008_sorted.bw
 		shortLabel G0_Nucl_rep2_2_minus_L008
 		longLabel G0_Nucl_rep2_2_minus_L008_sorted
+		priority 83
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -508,6 +548,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_plus_L005_sorted.bw
 		shortLabel G1_Nucl_rep1_1_plus_L005
 		longLabel G1_Nucl_rep1_1_plus_L005_sorted
+		priority 87.1
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -520,6 +561,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_minus_L005_sorted.bw
 		shortLabel G1_Nucl_rep1_1_minus_L005
 		longLabel G1_Nucl_rep1_1_minus_L005_sorted
+		priority 91.3
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -532,6 +574,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_plus_L006_sorted.bw
 		shortLabel G1_Nucl_rep1_2_plus_L006
 		longLabel G1_Nucl_rep1_2_plus_L006_sorted
+		priority 95.6
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -544,6 +587,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_minus_L006_sorted.bw
 		shortLabel G1_Nucl_rep1_2_minus_L006
 		longLabel G1_Nucl_rep1_2_minus_L006_sorted
+		priority 100
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -556,6 +600,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_plus_L007_sorted.bw
 		shortLabel G1_Nucl_rep2_1_plus_L007
 		longLabel G1_Nucl_rep2_1_plus_L007_sorted
+		priority 104.5
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -568,6 +613,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_minus_L007_sorted.bw
 		shortLabel G1_Nucl_rep2_1_minus_L007
 		longLabel G1_Nucl_rep2_1_minus_L007_sorted
+		priority 109.1
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -580,6 +626,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_plus_L008_sorted.bw
 		shortLabel G1_Nucl_rep2_2_plus_L008
 		longLabel G1_Nucl_rep2_2_plus_L008_sorted
+		priority 113.8
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -592,6 +639,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_minus_L008_sorted.bw
 		shortLabel G1_Nucl_rep2_2_minus_L008
 		longLabel G1_Nucl_rep2_2_minus_L008_sorted
+		priority 118.6
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -604,6 +652,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_1_plus_L005_sorted.bw
 		shortLabel S_Nucl_rep1_1_plus_L005
 		longLabel S_Nucl_rep1_1_plus_L005_sorted
+		priority 123.5
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -616,6 +665,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_1_minus_L005_sorted.bw
 		shortLabel S_Nucl_rep1_1_minus_L005
 		longLabel S_Nucl_rep1_1_minus_L005_sorted
+		priority 128.5
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -628,6 +678,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_2_plus_L006_sorted.bw
 		shortLabel S_Nucl_rep1_2_plus_L006
 		longLabel S_Nucl_rep1_2_plus_L006_sorted
+		priority 133.6
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -640,6 +691,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_2_minus_L006_sorted.bw
 		shortLabel S_Nucl_rep1_2_minus_L006
 		longLabel S_Nucl_rep1_2_minus_L006_sorted
+		priority 138.8
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -652,6 +704,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_1_plus_L007_sorted.bw
 		shortLabel S_Nucl_rep2_1_plus_L007
 		longLabel S_Nucl_rep2_1_plus_L007_sorted
+		priority 144.1
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -664,6 +717,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_1_minus_L007_sorted.bw
 		shortLabel S_Nucl_rep2_1_minus_L007
 		longLabel S_Nucl_rep2_1_minus_L007_sorted
+		priority 149.5
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -676,6 +730,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_2_plus_L008_sorted.bw
 		shortLabel S_Nucl_rep2_2_plus_L008
 		longLabel S_Nucl_rep2_2_plus_L008_sorted
+		priority 155
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -688,6 +743,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_2_minus_L008_sorted.bw
 		shortLabel S_Nucl_rep2_2_minus_L008
 		longLabel S_Nucl_rep2_2_minus_L008_sorted
+		priority 160.6
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -700,6 +756,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_plus_L005_sorted.bw
 		shortLabel G2_Nucl_rep1_1_plus_L005
 		longLabel G2_Nucl_rep1_1_plus_L005_sorted
+		priority 166.3
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -712,6 +769,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_minus_L005_sorted.bw
 		shortLabel G2_Nucl_rep1_1_minus_L005
 		longLabel G2_Nucl_rep1_1_minus_L005_sorted
+		priority 172.1
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -724,6 +782,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_plus_L006_sorted.bw
 		shortLabel G2_Nucl_rep1_2_plus_L006
 		longLabel G2_Nucl_rep1_2_plus_L006_sorted
+		priority 178
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -736,6 +795,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_minus_L006_sorted.bw
 		shortLabel G2_Nucl_rep1_2_minus_L006
 		longLabel G2_Nucl_rep1_2_minus_L006_sorted
+		priority 184
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -748,6 +808,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_plus_L007_sorted.bw
 		shortLabel G2_Nucl_rep2_1_plus_L007
 		longLabel G2_Nucl_rep2_1_plus_L007_sorted
+		priority 190.1
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -760,6 +821,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_minus_L007_sorted.bw
 		shortLabel G2_Nucl_rep2_1_minus_L007
 		longLabel G2_Nucl_rep2_1_minus_L007_sorted
+		priority 196.3
 		type bigWig
 		color 255,0,0
 		autoScale group
@@ -772,6 +834,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_plus_L008_sorted.bw
 		shortLabel G2_Nucl_rep2_2_plus_L008
 		longLabel G2_Nucl_rep2_2_plus_L008_sorted
+		priority 202.6
 		type bigWig
 		color 0,0,255
 		autoScale group
@@ -784,6 +847,7 @@ sortOrder fraction=+ stage=- rep=+ strand=-
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_minus_L008_sorted.bw
 		shortLabel G2_Nucl_rep2_2_minus_L008
 		longLabel G2_Nucl_rep2_2_minus_L008_sorted
+		priority 209
 		type bigWig
 		color 255,0,0
 		autoScale group
