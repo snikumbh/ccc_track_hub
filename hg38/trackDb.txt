@@ -29,7 +29,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 1_G0_Tot_rep1_1_plus_L005
 		longLabel G0_Tot_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -41,7 +41,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 2_G0_Tot_rep1_1_minus_L005
 		longLabel G0_Tot_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -53,7 +53,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 3_G0_Tot_rep1_2_plus_L006
 		longLabel G0_Tot_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -65,7 +65,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 4_G0_Tot_rep1_2_minus_L006
 		longLabel G0_Tot_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -77,7 +77,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 5_G0_Tot_rep2_1_plus_L007
 		longLabel G0_Tot_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -89,7 +89,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 6_G0_Tot_rep2_1_minus_L007
 		longLabel G0_Tot_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -101,7 +101,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 7_G0_Tot_rep2_2_plus_L008
 		longLabel G0_Tot_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -113,7 +113,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 8_G0_Tot_rep2_2_minus_L008
 		longLabel G0_Tot_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -125,7 +125,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 9_G1_Tot_rep1_1_plus_L005
 		longLabel G1_Tot_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -137,7 +137,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 10_G1_Tot_rep1_1_minus_L005
 		longLabel G1_Tot_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -149,7 +149,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 11_G1_Tot_rep1_2_plus_L006
 		longLabel G1_Tot_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -161,7 +161,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 12_G1_Tot_rep1_2_minus_L006
 		longLabel G1_Tot_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -173,7 +173,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 13_G1_Tot_rep2_1_plus_L007
 		longLabel G1_Tot_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -185,7 +185,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 14_G1_Tot_rep2_1_minus_L007
 		longLabel G1_Tot_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -197,7 +197,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 15_G1_Tot_rep2_2_plus_L008
 		longLabel G1_Tot_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -209,7 +209,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 16_G1_Tot_rep2_2_minus_L008
 		longLabel G1_Tot_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -221,7 +221,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 17_S_Tot_rep1_1_plus_L005
 		longLabel S_Tot_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -233,7 +233,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 18_S_Tot_rep1_1_minus_L005
 		longLabel S_Tot_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -245,7 +245,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 19_S_Tot_rep1_2_plus_L006
 		longLabel S_Tot_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -257,7 +257,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 20_S_Tot_rep1_2_minus_L006
 		longLabel S_Tot_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -269,7 +269,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 21_S_Tot_rep2_1_plus_L007
 		longLabel S_Tot_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -281,7 +281,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 22_S_Tot_rep2_1_minus_L007
 		longLabel S_Tot_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -293,7 +293,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 23_S_Tot_rep2_2_plus_L008
 		longLabel S_Tot_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -305,7 +305,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 24_S_Tot_rep2_2_minus_L008
 		longLabel S_Tot_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -317,7 +317,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 25_G2_Tot_rep1_1_plus_L005
 		longLabel G2_Tot_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -329,7 +329,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 26_G2_Tot_rep1_1_minus_L005
 		longLabel G2_Tot_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -341,7 +341,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 27_G2_Tot_rep1_2_plus_L006
 		longLabel G2_Tot_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -353,7 +353,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 28_G2_Tot_rep1_2_minus_L006
 		longLabel G2_Tot_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -365,7 +365,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 29_G2_Tot_rep2_1_plus_L007
 		longLabel G2_Tot_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -377,7 +377,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 30_G2_Tot_rep2_1_minus_L007
 		longLabel G2_Tot_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -389,7 +389,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 31_G2_Tot_rep2_2_plus_L008
 		longLabel G2_Tot_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -401,7 +401,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 32_G2_Tot_rep2_2_minus_L008
 		longLabel G2_Tot_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -413,7 +413,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 33_G0_Nucl_rep1_1_plus_L005
 		longLabel G0_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -425,7 +425,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 34_G0_Nucl_rep1_1_minus_L005
 		longLabel G0_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -437,7 +437,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 35_G0_Nucl_rep1_2_plus_L006
 		longLabel G0_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -449,7 +449,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 36_G0_Nucl_rep1_2_minus_L006
 		longLabel G0_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -461,7 +461,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 37_G0_Nucl_rep2_1_plus_L007
 		longLabel G0_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -473,7 +473,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 38_G0_Nucl_rep2_1_minus_L007
 		longLabel G0_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -485,7 +485,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 39_G0_Nucl_rep2_2_plus_L008
 		longLabel G0_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -497,7 +497,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 40_G0_Nucl_rep2_2_minus_L008
 		longLabel G0_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -509,7 +509,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 41_G1_Nucl_rep1_1_plus_L005
 		longLabel G1_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -521,7 +521,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 42_G1_Nucl_rep1_1_minus_L005
 		longLabel G1_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -533,7 +533,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 43_G1_Nucl_rep1_2_plus_L006
 		longLabel G1_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -545,7 +545,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 44_G1_Nucl_rep1_2_minus_L006
 		longLabel G1_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -557,7 +557,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 45_G1_Nucl_rep2_1_plus_L007
 		longLabel G1_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -569,7 +569,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 46_G1_Nucl_rep2_1_minus_L007
 		longLabel G1_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -581,7 +581,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 47_G1_Nucl_rep2_2_plus_L008
 		longLabel G1_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -593,7 +593,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 48_G1_Nucl_rep2_2_minus_L008
 		longLabel G1_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -605,7 +605,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 49_S_Nucl_rep1_1_plus_L005
 		longLabel S_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -617,7 +617,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 50_S_Nucl_rep1_1_minus_L005
 		longLabel S_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -629,7 +629,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 51_S_Nucl_rep1_2_plus_L006
 		longLabel S_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -641,7 +641,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 52_S_Nucl_rep1_2_minus_L006
 		longLabel S_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -653,7 +653,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 53_S_Nucl_rep2_1_plus_L007
 		longLabel S_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -665,7 +665,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 54_S_Nucl_rep2_1_minus_L007
 		longLabel S_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -677,7 +677,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 55_S_Nucl_rep2_2_plus_L008
 		longLabel S_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -689,7 +689,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 56_S_Nucl_rep2_2_minus_L008
 		longLabel S_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -701,7 +701,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 57_G2_Nucl_rep1_1_plus_L005
 		longLabel G2_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -713,7 +713,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 58_G2_Nucl_rep1_1_minus_L005
 		longLabel G2_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -725,7 +725,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 59_G2_Nucl_rep1_2_plus_L006
 		longLabel G2_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -737,7 +737,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 60_G2_Nucl_rep1_2_minus_L006
 		longLabel G2_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -749,7 +749,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 61_G2_Nucl_rep2_1_plus_L007
 		longLabel G2_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -761,7 +761,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 62_G2_Nucl_rep2_1_minus_L007
 		longLabel G2_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -773,7 +773,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 63_G2_Nucl_rep2_2_plus_L008
 		longLabel G2_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
-		color 0,0,255
+		color 255,0,0
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
@@ -785,7 +785,7 @@ sortOrder fraction=+ stage=+ rep=+ strand=+
 		shortLabel 64_G2_Nucl_rep2_2_minus_L008
 		longLabel G2_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
-		color 255,0,0
+		color 0,0,255
 		autoScale group
 		maxHeightPixels 128:32:8
 		visibility full
