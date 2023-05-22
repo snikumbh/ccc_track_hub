@@ -1,1 +1,728 @@
+track CellCycleCageComposite
+shortLabel Cell Cycle CAGE
+longLabel Cell Cycle CAGE
+type bigWig
+visibility full
+priority 1
+compositeTrack on
+subGroup1 view Views signal=signal peak=peak
+subGroup2 sample sample_id  G0_Tot_rep1_1_plus_L005_sorted=G0_Tot_rep1_1_plus_L005_sorted_G0_Tot_rep1_1_minus_L005_sorted=G0_Tot_rep1_1_minus_L005_sorted_G0_Tot_rep1_2_plus_L006_sorted=G0_Tot_rep1_2_plus_L006_sorted_G0_Tot_rep1_2_minus_L006_sorted=G0_Tot_rep1_2_minus_L006_sorted_G0_Tot_rep2_1_plus_L007_sorted=G0_Tot_rep2_1_plus_L007_sorted_G0_Tot_rep2_1_minus_L007_sorted=G0_Tot_rep2_1_minus_L007_sorted_G0_Tot_rep2_2_plus_L008_sorted=G0_Tot_rep2_2_plus_L008_sorted_G0_Tot_rep2_2_minus_L008_sorted=G0_Tot_rep2_2_minus_L008_sorted_G1_Tot_rep1_1_plus_L005_sorted=G1_Tot_rep1_1_plus_L005_sorted_G1_Tot_rep1_1_minus_L005_sorted=G1_Tot_rep1_1_minus_L005_sorted_G1_Tot_rep1_2_plus_L006_sorted=G1_Tot_rep1_2_plus_L006_sorted_G1_Tot_rep1_2_minus_L006_sorted=G1_Tot_rep1_2_minus_L006_sorted_G1_Tot_rep2_1_plus_L007_sorted=G1_Tot_rep2_1_plus_L007_sorted_G1_Tot_rep2_1_minus_L007_sorted=G1_Tot_rep2_1_minus_L007_sorted_G1_Tot_rep2_2_plus_L008_sorted=G1_Tot_rep2_2_plus_L008_sorted_G1_Tot_rep2_2_minus_L008_sorted=G1_Tot_rep2_2_minus_L008_sorted_S_Tot_rep1_1_plus_L005_sorted=S_Tot_rep1_1_plus_L005_sorted_S_Tot_rep1_1_minus_L005_sorted=S_Tot_rep1_1_minus_L005_sorted_S_Tot_rep1_2_plus_L006_sorted=S_Tot_rep1_2_plus_L006_sorted_S_Tot_rep1_2_minus_L006_sorted=S_Tot_rep1_2_minus_L006_sorted_S_Tot_rep2_1_plus_L007_sorted=S_Tot_rep2_1_plus_L007_sorted_S_Tot_rep2_1_minus_L007_sorted=S_Tot_rep2_1_minus_L007_sorted_S_Tot_rep2_2_plus_L008_sorted=S_Tot_rep2_2_plus_L008_sorted_S_Tot_rep2_2_minus_L008_sorted=S_Tot_rep2_2_minus_L008_sorted_G2_Tot_rep1_1_plus_L005_sorted=G2_Tot_rep1_1_plus_L005_sorted_G2_Tot_rep1_1_minus_L005_sorted=G2_Tot_rep1_1_minus_L005_sorted_G2_Tot_rep1_2_plus_L006_sorted=G2_Tot_rep1_2_plus_L006_sorted_G2_Tot_rep1_2_minus_L006_sorted=G2_Tot_rep1_2_minus_L006_sorted_G2_Tot_rep2_1_plus_L007_sorted=G2_Tot_rep2_1_plus_L007_sorted_G2_Tot_rep2_1_minus_L007_sorted=G2_Tot_rep2_1_minus_L007_sorted_G2_Tot_rep2_2_plus_L008_sorted=G2_Tot_rep2_2_plus_L008_sorted_G2_Tot_rep2_2_minus_L008_sorted=G2_Tot_rep2_2_minus_L008_sorted_G0_Nucl_rep1_1_plus_L005_sorted=G0_Nucl_rep1_1_plus_L005_sorted_G0_Nucl_rep1_1_minus_L005_sorted=G0_Nucl_rep1_1_minus_L005_sorted_G0_Nucl_rep1_2_plus_L006_sorted=G0_Nucl_rep1_2_plus_L006_sorted_G0_Nucl_rep1_2_minus_L006_sorted=G0_Nucl_rep1_2_minus_L006_sorted_G0_Nucl_rep2_1_plus_L007_sorted=G0_Nucl_rep2_1_plus_L007_sorted_G0_Nucl_rep2_1_minus_L007_sorted=G0_Nucl_rep2_1_minus_L007_sorted_G0_Nucl_rep2_2_plus_L008_sorted=G0_Nucl_rep2_2_plus_L008_sorted_G0_Nucl_rep2_2_minus_L008_sorted=G0_Nucl_rep2_2_minus_L008_sorted_G1_Nucl_rep1_1_plus_L005_sorted=G1_Nucl_rep1_1_plus_L005_sorted_G1_Nucl_rep1_1_minus_L005_sorted=G1_Nucl_rep1_1_minus_L005_sorted_G1_Nucl_rep1_2_plus_L006_sorted=G1_Nucl_rep1_2_plus_L006_sorted_G1_Nucl_rep1_2_minus_L006_sorted=G1_Nucl_rep1_2_minus_L006_sorted_G1_Nucl_rep2_1_plus_L007_sorted=G1_Nucl_rep2_1_plus_L007_sorted_G1_Nucl_rep2_1_minus_L007_sorted=G1_Nucl_rep2_1_minus_L007_sorted_G1_Nucl_rep2_2_plus_L008_sorted=G1_Nucl_rep2_2_plus_L008_sorted_G1_Nucl_rep2_2_minus_L008_sorted=G1_Nucl_rep2_2_minus_L008_sorted_S_Nucl_rep1_1_plus_L005_sorted=S_Nucl_rep1_1_plus_L005_sorted_S_Nucl_rep1_1_minus_L005_sorted=S_Nucl_rep1_1_minus_L005_sorted_S_Nucl_rep1_2_plus_L006_sorted=S_Nucl_rep1_2_plus_L006_sorted_S_Nucl_rep1_2_minus_L006_sorted=S_Nucl_rep1_2_minus_L006_sorted_S_Nucl_rep2_1_plus_L007_sorted=S_Nucl_rep2_1_plus_L007_sorted_S_Nucl_rep2_1_minus_L007_sorted=S_Nucl_rep2_1_minus_L007_sorted_S_Nucl_rep2_2_plus_L008_sorted=S_Nucl_rep2_2_plus_L008_sorted_S_Nucl_rep2_2_minus_L008_sorted=S_Nucl_rep2_2_minus_L008_sorted_G2_Nucl_rep1_1_plus_L005_sorted=G2_Nucl_rep1_1_plus_L005_sorted_G2_Nucl_rep1_1_minus_L005_sorted=G2_Nucl_rep1_1_minus_L005_sorted_G2_Nucl_rep1_2_plus_L006_sorted=G2_Nucl_rep1_2_plus_L006_sorted_G2_Nucl_rep1_2_minus_L006_sorted=G2_Nucl_rep1_2_minus_L006_sorted_G2_Nucl_rep2_1_plus_L007_sorted=G2_Nucl_rep2_1_plus_L007_sorted_G2_Nucl_rep2_1_minus_L007_sorted=G2_Nucl_rep2_1_minus_L007_sorted_G2_Nucl_rep2_2_plus_L008_sorted=G2_Nucl_rep2_2_plus_L008_sorted_G2_Nucl_rep2_2_minus_L008_sorted=G2_Nucl_rep2_2_minus_L008_sorted
+subGroup4 fraction rna_fraction ATOT=Tot BNUC=Nucl
+subGroup3 stage developmental_stage AG0=G0 AG1=G1 B0S=S CG2=G2
+subGroup5 rep bio_rep rep1=rep1 rep2=rep2
+subGroup6 strand seq_strand APLUS=plus BMINUS=minus
+dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
+filterComposite dimA dimB
+
+
+	track CAGEsignalBigWig)
+	shortLabel CAGE signal
+	longLabel CAGE signal
+	type bigWig
+	visibility full
+	parent CellCycleCAGEComposite on
+	view signal
+		track G0_Tot_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_1_plus_L005_sorted.bw
+		shortLabel G0_Tot_rep1_1_plus_L005
+		longLabel G0_Tot_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
 		parent CAGEsignalBigWig on
+
+		track G0_Tot_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_1_minus_L005_sorted.bw
+		shortLabel G0_Tot_rep1_1_minus_L005
+		longLabel G0_Tot_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Tot_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_2_plus_L006_sorted.bw
+		shortLabel G0_Tot_rep1_2_plus_L006
+		longLabel G0_Tot_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Tot_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_2_minus_L006_sorted.bw
+		shortLabel G0_Tot_rep1_2_minus_L006
+		longLabel G0_Tot_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Tot_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_1_plus_L007_sorted.bw
+		shortLabel G0_Tot_rep2_1_plus_L007
+		longLabel G0_Tot_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Tot_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_1_minus_L007_sorted.bw
+		shortLabel G0_Tot_rep2_1_minus_L007
+		longLabel G0_Tot_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Tot_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_2_plus_L008_sorted.bw
+		shortLabel G0_Tot_rep2_2_plus_L008
+		longLabel G0_Tot_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Tot_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_2_minus_L008_sorted.bw
+		shortLabel G0_Tot_rep2_2_minus_L008
+		longLabel G0_Tot_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_1_plus_L005_sorted.bw
+		shortLabel G1_Tot_rep1_1_plus_L005
+		longLabel G1_Tot_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_1_minus_L005_sorted.bw
+		shortLabel G1_Tot_rep1_1_minus_L005
+		longLabel G1_Tot_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_2_plus_L006_sorted.bw
+		shortLabel G1_Tot_rep1_2_plus_L006
+		longLabel G1_Tot_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_2_minus_L006_sorted.bw
+		shortLabel G1_Tot_rep1_2_minus_L006
+		longLabel G1_Tot_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_1_plus_L007_sorted.bw
+		shortLabel G1_Tot_rep2_1_plus_L007
+		longLabel G1_Tot_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_1_minus_L007_sorted.bw
+		shortLabel G1_Tot_rep2_1_minus_L007
+		longLabel G1_Tot_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_2_plus_L008_sorted.bw
+		shortLabel G1_Tot_rep2_2_plus_L008
+		longLabel G1_Tot_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Tot_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_2_minus_L008_sorted.bw
+		shortLabel G1_Tot_rep2_2_minus_L008
+		longLabel G1_Tot_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_1_plus_L005_sorted.bw
+		shortLabel S_Tot_rep1_1_plus_L005
+		longLabel S_Tot_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_1_minus_L005_sorted.bw
+		shortLabel S_Tot_rep1_1_minus_L005
+		longLabel S_Tot_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_2_plus_L006_sorted.bw
+		shortLabel S_Tot_rep1_2_plus_L006
+		longLabel S_Tot_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_2_minus_L006_sorted.bw
+		shortLabel S_Tot_rep1_2_minus_L006
+		longLabel S_Tot_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_1_plus_L007_sorted.bw
+		shortLabel S_Tot_rep2_1_plus_L007
+		longLabel S_Tot_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_1_minus_L007_sorted.bw
+		shortLabel S_Tot_rep2_1_minus_L007
+		longLabel S_Tot_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_2_plus_L008_sorted.bw
+		shortLabel S_Tot_rep2_2_plus_L008
+		longLabel S_Tot_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Tot_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_2_minus_L008_sorted.bw
+		shortLabel S_Tot_rep2_2_minus_L008
+		longLabel S_Tot_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_1_plus_L005_sorted.bw
+		shortLabel G2_Tot_rep1_1_plus_L005
+		longLabel G2_Tot_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_1_minus_L005_sorted.bw
+		shortLabel G2_Tot_rep1_1_minus_L005
+		longLabel G2_Tot_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_2_plus_L006_sorted.bw
+		shortLabel G2_Tot_rep1_2_plus_L006
+		longLabel G2_Tot_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_2_minus_L006_sorted.bw
+		shortLabel G2_Tot_rep1_2_minus_L006
+		longLabel G2_Tot_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_1_plus_L007_sorted.bw
+		shortLabel G2_Tot_rep2_1_plus_L007
+		longLabel G2_Tot_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_1_minus_L007_sorted.bw
+		shortLabel G2_Tot_rep2_1_minus_L007
+		longLabel G2_Tot_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_2_plus_L008_sorted.bw
+		shortLabel G2_Tot_rep2_2_plus_L008
+		longLabel G2_Tot_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Tot_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_2_minus_L008_sorted.bw
+		shortLabel G2_Tot_rep2_2_minus_L008
+		longLabel G2_Tot_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel G0_Nucl_rep1_1_plus_L005
+		longLabel G0_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel G0_Nucl_rep1_1_minus_L005
+		longLabel G0_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel G0_Nucl_rep1_2_plus_L006
+		longLabel G0_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel G0_Nucl_rep1_2_minus_L006
+		longLabel G0_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel G0_Nucl_rep2_1_plus_L007
+		longLabel G0_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel G0_Nucl_rep2_1_minus_L007
+		longLabel G0_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel G0_Nucl_rep2_2_plus_L008
+		longLabel G0_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G0_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel G0_Nucl_rep2_2_minus_L008
+		longLabel G0_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel G1_Nucl_rep1_1_plus_L005
+		longLabel G1_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel G1_Nucl_rep1_1_minus_L005
+		longLabel G1_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel G1_Nucl_rep1_2_plus_L006
+		longLabel G1_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel G1_Nucl_rep1_2_minus_L006
+		longLabel G1_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel G1_Nucl_rep2_1_plus_L007
+		longLabel G1_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel G1_Nucl_rep2_1_minus_L007
+		longLabel G1_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel G1_Nucl_rep2_2_plus_L008
+		longLabel G1_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G1_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel G1_Nucl_rep2_2_minus_L008
+		longLabel G1_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel S_Nucl_rep1_1_plus_L005
+		longLabel S_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel S_Nucl_rep1_1_minus_L005
+		longLabel S_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel S_Nucl_rep1_2_plus_L006
+		longLabel S_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel S_Nucl_rep1_2_minus_L006
+		longLabel S_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel S_Nucl_rep2_1_plus_L007
+		longLabel S_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel S_Nucl_rep2_1_minus_L007
+		longLabel S_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel S_Nucl_rep2_2_plus_L008
+		longLabel S_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track S_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel S_Nucl_rep2_2_minus_L008
+		longLabel S_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_1_plus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_plus_L005_sorted.bw
+		shortLabel G2_Nucl_rep1_1_plus_L005
+		longLabel G2_Nucl_rep1_1_plus_L005_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_1_minus_L005_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_minus_L005_sorted.bw
+		shortLabel G2_Nucl_rep1_1_minus_L005
+		longLabel G2_Nucl_rep1_1_minus_L005_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_2_plus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_plus_L006_sorted.bw
+		shortLabel G2_Nucl_rep1_2_plus_L006
+		longLabel G2_Nucl_rep1_2_plus_L006_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep1_2_minus_L006_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_minus_L006_sorted.bw
+		shortLabel G2_Nucl_rep1_2_minus_L006
+		longLabel G2_Nucl_rep1_2_minus_L006_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_1_plus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_plus_L007_sorted.bw
+		shortLabel G2_Nucl_rep2_1_plus_L007
+		longLabel G2_Nucl_rep2_1_plus_L007_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_1_minus_L007_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_minus_L007_sorted.bw
+		shortLabel G2_Nucl_rep2_1_minus_L007
+		longLabel G2_Nucl_rep2_1_minus_L007_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_2_plus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_plus_L008_sorted.bw
+		shortLabel G2_Nucl_rep2_2_plus_L008
+		longLabel G2_Nucl_rep2_2_plus_L008_sorted
+		type bigWig
+		color 0,0,255
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
+		track G2_Nucl_rep2_2_minus_L008_sorted
+		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_minus_L008_sorted.bw
+		shortLabel G2_Nucl_rep2_2_minus_L008
+		longLabel G2_Nucl_rep2_2_minus_L008_sorted
+		type bigWig
+		color 255,0,0
+		autoScale group
+		maxHeightPixels 128:32:8
+		visibility full
+		parent CAGEsignalBigWig on
+
