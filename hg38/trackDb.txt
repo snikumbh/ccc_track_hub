@@ -15,7 +15,7 @@ dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 filterComposite dimA dimB
 
 
-	track CAGEsignalBigWig)
+	track CAGEsignalBigWig
 	shortLabel CAGE signal
 	longLabel CAGE signal
 	type bigWig
