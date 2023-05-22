@@ -7,13 +7,12 @@ priority 1
 compositeTrack on
 subGroup1 view Views signal=signal peak=peak
 subGroup2 sample sample_id 1_G0_Tot_rep1_1_plus_L005_sorted=G0_Tot_rep1_1_plus_L005_sorted 2_G0_Tot_rep1_1_minus_L005_sorted=G0_Tot_rep1_1_minus_L005_sorted 3_G0_Tot_rep1_2_plus_L006_sorted=G0_Tot_rep1_2_plus_L006_sorted 4_G0_Tot_rep1_2_minus_L006_sorted=G0_Tot_rep1_2_minus_L006_sorted 5_G0_Tot_rep2_1_plus_L007_sorted=G0_Tot_rep2_1_plus_L007_sorted 6_G0_Tot_rep2_1_minus_L007_sorted=G0_Tot_rep2_1_minus_L007_sorted 7_G0_Tot_rep2_2_plus_L008_sorted=G0_Tot_rep2_2_plus_L008_sorted 8_G0_Tot_rep2_2_minus_L008_sorted=G0_Tot_rep2_2_minus_L008_sorted 9_G1_Tot_rep1_1_plus_L005_sorted=G1_Tot_rep1_1_plus_L005_sorted 10_G1_Tot_rep1_1_minus_L005_sorted=G1_Tot_rep1_1_minus_L005_sorted 11_G1_Tot_rep1_2_plus_L006_sorted=G1_Tot_rep1_2_plus_L006_sorted 12_G1_Tot_rep1_2_minus_L006_sorted=G1_Tot_rep1_2_minus_L006_sorted 13_G1_Tot_rep2_1_plus_L007_sorted=G1_Tot_rep2_1_plus_L007_sorted 14_G1_Tot_rep2_1_minus_L007_sorted=G1_Tot_rep2_1_minus_L007_sorted 15_G1_Tot_rep2_2_plus_L008_sorted=G1_Tot_rep2_2_plus_L008_sorted 16_G1_Tot_rep2_2_minus_L008_sorted=G1_Tot_rep2_2_minus_L008_sorted 17_S_Tot_rep1_1_plus_L005_sorted=S_Tot_rep1_1_plus_L005_sorted 18_S_Tot_rep1_1_minus_L005_sorted=S_Tot_rep1_1_minus_L005_sorted 19_S_Tot_rep1_2_plus_L006_sorted=S_Tot_rep1_2_plus_L006_sorted 20_S_Tot_rep1_2_minus_L006_sorted=S_Tot_rep1_2_minus_L006_sorted 21_S_Tot_rep2_1_plus_L007_sorted=S_Tot_rep2_1_plus_L007_sorted 22_S_Tot_rep2_1_minus_L007_sorted=S_Tot_rep2_1_minus_L007_sorted 23_S_Tot_rep2_2_plus_L008_sorted=S_Tot_rep2_2_plus_L008_sorted 24_S_Tot_rep2_2_minus_L008_sorted=S_Tot_rep2_2_minus_L008_sorted 25_G2_Tot_rep1_1_plus_L005_sorted=G2_Tot_rep1_1_plus_L005_sorted 26_G2_Tot_rep1_1_minus_L005_sorted=G2_Tot_rep1_1_minus_L005_sorted 27_G2_Tot_rep1_2_plus_L006_sorted=G2_Tot_rep1_2_plus_L006_sorted 28_G2_Tot_rep1_2_minus_L006_sorted=G2_Tot_rep1_2_minus_L006_sorted 29_G2_Tot_rep2_1_plus_L007_sorted=G2_Tot_rep2_1_plus_L007_sorted 30_G2_Tot_rep2_1_minus_L007_sorted=G2_Tot_rep2_1_minus_L007_sorted 31_G2_Tot_rep2_2_plus_L008_sorted=G2_Tot_rep2_2_plus_L008_sorted 32_G2_Tot_rep2_2_minus_L008_sorted=G2_Tot_rep2_2_minus_L008_sorted 33_G0_Nucl_rep1_1_plus_L005_sorted=G0_Nucl_rep1_1_plus_L005_sorted 34_G0_Nucl_rep1_1_minus_L005_sorted=G0_Nucl_rep1_1_minus_L005_sorted 35_G0_Nucl_rep1_2_plus_L006_sorted=G0_Nucl_rep1_2_plus_L006_sorted 36_G0_Nucl_rep1_2_minus_L006_sorted=G0_Nucl_rep1_2_minus_L006_sorted 37_G0_Nucl_rep2_1_plus_L007_sorted=G0_Nucl_rep2_1_plus_L007_sorted 38_G0_Nucl_rep2_1_minus_L007_sorted=G0_Nucl_rep2_1_minus_L007_sorted 39_G0_Nucl_rep2_2_plus_L008_sorted=G0_Nucl_rep2_2_plus_L008_sorted 40_G0_Nucl_rep2_2_minus_L008_sorted=G0_Nucl_rep2_2_minus_L008_sorted 41_G1_Nucl_rep1_1_plus_L005_sorted=G1_Nucl_rep1_1_plus_L005_sorted 42_G1_Nucl_rep1_1_minus_L005_sorted=G1_Nucl_rep1_1_minus_L005_sorted 43_G1_Nucl_rep1_2_plus_L006_sorted=G1_Nucl_rep1_2_plus_L006_sorted 44_G1_Nucl_rep1_2_minus_L006_sorted=G1_Nucl_rep1_2_minus_L006_sorted 45_G1_Nucl_rep2_1_plus_L007_sorted=G1_Nucl_rep2_1_plus_L007_sorted 46_G1_Nucl_rep2_1_minus_L007_sorted=G1_Nucl_rep2_1_minus_L007_sorted 47_G1_Nucl_rep2_2_plus_L008_sorted=G1_Nucl_rep2_2_plus_L008_sorted 48_G1_Nucl_rep2_2_minus_L008_sorted=G1_Nucl_rep2_2_minus_L008_sorted 49_S_Nucl_rep1_1_plus_L005_sorted=S_Nucl_rep1_1_plus_L005_sorted 50_S_Nucl_rep1_1_minus_L005_sorted=S_Nucl_rep1_1_minus_L005_sorted 51_S_Nucl_rep1_2_plus_L006_sorted=S_Nucl_rep1_2_plus_L006_sorted 52_S_Nucl_rep1_2_minus_L006_sorted=S_Nucl_rep1_2_minus_L006_sorted 53_S_Nucl_rep2_1_plus_L007_sorted=S_Nucl_rep2_1_plus_L007_sorted 54_S_Nucl_rep2_1_minus_L007_sorted=S_Nucl_rep2_1_minus_L007_sorted 55_S_Nucl_rep2_2_plus_L008_sorted=S_Nucl_rep2_2_plus_L008_sorted 56_S_Nucl_rep2_2_minus_L008_sorted=S_Nucl_rep2_2_minus_L008_sorted 57_G2_Nucl_rep1_1_plus_L005_sorted=G2_Nucl_rep1_1_plus_L005_sorted 58_G2_Nucl_rep1_1_minus_L005_sorted=G2_Nucl_rep1_1_minus_L005_sorted 59_G2_Nucl_rep1_2_plus_L006_sorted=G2_Nucl_rep1_2_plus_L006_sorted 60_G2_Nucl_rep1_2_minus_L006_sorted=G2_Nucl_rep1_2_minus_L006_sorted 61_G2_Nucl_rep2_1_plus_L007_sorted=G2_Nucl_rep2_1_plus_L007_sorted 62_G2_Nucl_rep2_1_minus_L007_sorted=G2_Nucl_rep2_1_minus_L007_sorted 63_G2_Nucl_rep2_2_plus_L008_sorted=G2_Nucl_rep2_2_plus_L008_sorted 64_G2_Nucl_rep2_2_minus_L008_sorted=G2_Nucl_rep2_2_minus_L008_sorted
-subGroup4 fraction rna_fraction ATOT=Tot BNUC=Nucl
+subGroup4 fraction rna_fraction ATOT=Tot BNUC=Nuc
 subGroup3 stage developmental_stage AG0=G0 AG1=G1 B0S=S CG2=G2
 subGroup5 rep replicates rep1_1=rep1_1 rep1_2=rep1_2 rep2_1=rep2_1 rep2_2=rep2_2
 subGroup6 strand seq_strand APLUS=plus BMINUS=minus
 dimensions dimX=stage dimY=fraction dimA=rep dimB=strand
 filterComposite dimA dimB
-sortOrder fraction=+ stage=- rep=+ strand=+
 
 
 	track CAGEsignalBigWig
@@ -26,7 +25,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_1_plus_L005_sorted.bw
-		shortLabel 1 _ G0_Tot_rep1_1_plus_L005
+		shortLabel 1_G0_Tot_rep1_1_plus_L005
 		longLabel G0_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -38,7 +37,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_1_minus_L005_sorted.bw
-		shortLabel 2 _ G0_Tot_rep1_1_minus_L005
+		shortLabel 2_G0_Tot_rep1_1_minus_L005
 		longLabel G0_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -50,7 +49,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_2_plus_L006_sorted.bw
-		shortLabel 3 _ G0_Tot_rep1_2_plus_L006
+		shortLabel 3_G0_Tot_rep1_2_plus_L006
 		longLabel G0_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -62,7 +61,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep1_2_minus_L006_sorted.bw
-		shortLabel 4 _ G0_Tot_rep1_2_minus_L006
+		shortLabel 4_G0_Tot_rep1_2_minus_L006
 		longLabel G0_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -74,7 +73,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_1_plus_L007_sorted.bw
-		shortLabel 5 _ G0_Tot_rep2_1_plus_L007
+		shortLabel 5_G0_Tot_rep2_1_plus_L007
 		longLabel G0_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -86,7 +85,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_1_minus_L007_sorted.bw
-		shortLabel 6 _ G0_Tot_rep2_1_minus_L007
+		shortLabel 6_G0_Tot_rep2_1_minus_L007
 		longLabel G0_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -98,7 +97,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_2_plus_L008_sorted.bw
-		shortLabel 7 _ G0_Tot_rep2_2_plus_L008
+		shortLabel 7_G0_Tot_rep2_2_plus_L008
 		longLabel G0_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -110,7 +109,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Tot_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Tot_rep2_2_minus_L008_sorted.bw
-		shortLabel 8 _ G0_Tot_rep2_2_minus_L008
+		shortLabel 8_G0_Tot_rep2_2_minus_L008
 		longLabel G0_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
@@ -122,7 +121,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_1_plus_L005_sorted.bw
-		shortLabel 9 _ G1_Tot_rep1_1_plus_L005
+		shortLabel 9_G1_Tot_rep1_1_plus_L005
 		longLabel G1_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -134,7 +133,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_1_minus_L005_sorted.bw
-		shortLabel 10 _ G1_Tot_rep1_1_minus_L005
+		shortLabel 10_G1_Tot_rep1_1_minus_L005
 		longLabel G1_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -146,7 +145,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_2_plus_L006_sorted.bw
-		shortLabel 11 _ G1_Tot_rep1_2_plus_L006
+		shortLabel 11_G1_Tot_rep1_2_plus_L006
 		longLabel G1_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -158,7 +157,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep1_2_minus_L006_sorted.bw
-		shortLabel 12 _ G1_Tot_rep1_2_minus_L006
+		shortLabel 12_G1_Tot_rep1_2_minus_L006
 		longLabel G1_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -170,7 +169,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_1_plus_L007_sorted.bw
-		shortLabel 13 _ G1_Tot_rep2_1_plus_L007
+		shortLabel 13_G1_Tot_rep2_1_plus_L007
 		longLabel G1_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -182,7 +181,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_1_minus_L007_sorted.bw
-		shortLabel 14 _ G1_Tot_rep2_1_minus_L007
+		shortLabel 14_G1_Tot_rep2_1_minus_L007
 		longLabel G1_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -194,7 +193,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_2_plus_L008_sorted.bw
-		shortLabel 15 _ G1_Tot_rep2_2_plus_L008
+		shortLabel 15_G1_Tot_rep2_2_plus_L008
 		longLabel G1_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -206,7 +205,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Tot_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Tot_rep2_2_minus_L008_sorted.bw
-		shortLabel 16 _ G1_Tot_rep2_2_minus_L008
+		shortLabel 16_G1_Tot_rep2_2_minus_L008
 		longLabel G1_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
@@ -218,7 +217,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_1_plus_L005_sorted.bw
-		shortLabel 17 _ S_Tot_rep1_1_plus_L005
+		shortLabel 17_S_Tot_rep1_1_plus_L005
 		longLabel S_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -230,7 +229,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_1_minus_L005_sorted.bw
-		shortLabel 18 _ S_Tot_rep1_1_minus_L005
+		shortLabel 18_S_Tot_rep1_1_minus_L005
 		longLabel S_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -242,7 +241,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_2_plus_L006_sorted.bw
-		shortLabel 19 _ S_Tot_rep1_2_plus_L006
+		shortLabel 19_S_Tot_rep1_2_plus_L006
 		longLabel S_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -254,7 +253,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep1_2_minus_L006_sorted.bw
-		shortLabel 20 _ S_Tot_rep1_2_minus_L006
+		shortLabel 20_S_Tot_rep1_2_minus_L006
 		longLabel S_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -266,7 +265,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_1_plus_L007_sorted.bw
-		shortLabel 21 _ S_Tot_rep2_1_plus_L007
+		shortLabel 21_S_Tot_rep2_1_plus_L007
 		longLabel S_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -278,7 +277,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_1_minus_L007_sorted.bw
-		shortLabel 22 _ S_Tot_rep2_1_minus_L007
+		shortLabel 22_S_Tot_rep2_1_minus_L007
 		longLabel S_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -290,7 +289,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_2_plus_L008_sorted.bw
-		shortLabel 23 _ S_Tot_rep2_2_plus_L008
+		shortLabel 23_S_Tot_rep2_2_plus_L008
 		longLabel S_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -302,7 +301,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Tot_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Tot_rep2_2_minus_L008_sorted.bw
-		shortLabel 24 _ S_Tot_rep2_2_minus_L008
+		shortLabel 24_S_Tot_rep2_2_minus_L008
 		longLabel S_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
@@ -314,7 +313,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_1_plus_L005_sorted.bw
-		shortLabel 25 _ G2_Tot_rep1_1_plus_L005
+		shortLabel 25_G2_Tot_rep1_1_plus_L005
 		longLabel G2_Tot_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -326,7 +325,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_1_minus_L005_sorted.bw
-		shortLabel 26 _ G2_Tot_rep1_1_minus_L005
+		shortLabel 26_G2_Tot_rep1_1_minus_L005
 		longLabel G2_Tot_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -338,7 +337,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_2_plus_L006_sorted.bw
-		shortLabel 27 _ G2_Tot_rep1_2_plus_L006
+		shortLabel 27_G2_Tot_rep1_2_plus_L006
 		longLabel G2_Tot_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -350,7 +349,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep1_2_minus_L006_sorted.bw
-		shortLabel 28 _ G2_Tot_rep1_2_minus_L006
+		shortLabel 28_G2_Tot_rep1_2_minus_L006
 		longLabel G2_Tot_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -362,7 +361,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_1_plus_L007_sorted.bw
-		shortLabel 29 _ G2_Tot_rep2_1_plus_L007
+		shortLabel 29_G2_Tot_rep2_1_plus_L007
 		longLabel G2_Tot_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -374,7 +373,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_1_minus_L007_sorted.bw
-		shortLabel 30 _ G2_Tot_rep2_1_minus_L007
+		shortLabel 30_G2_Tot_rep2_1_minus_L007
 		longLabel G2_Tot_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -386,7 +385,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_2_plus_L008_sorted.bw
-		shortLabel 31 _ G2_Tot_rep2_2_plus_L008
+		shortLabel 31_G2_Tot_rep2_2_plus_L008
 		longLabel G2_Tot_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -398,7 +397,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Tot_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Tot_rep2_2_minus_L008_sorted.bw
-		shortLabel 32 _ G2_Tot_rep2_2_minus_L008
+		shortLabel 32_G2_Tot_rep2_2_minus_L008
 		longLabel G2_Tot_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
@@ -410,7 +409,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel 33 _ G0_Nucl_rep1_1_plus_L005
+		shortLabel 33_G0_Nucl_rep1_1_plus_L005
 		longLabel G0_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -422,7 +421,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel 34 _ G0_Nucl_rep1_1_minus_L005
+		shortLabel 34_G0_Nucl_rep1_1_minus_L005
 		longLabel G0_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -434,7 +433,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel 35 _ G0_Nucl_rep1_2_plus_L006
+		shortLabel 35_G0_Nucl_rep1_2_plus_L006
 		longLabel G0_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -446,7 +445,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel 36 _ G0_Nucl_rep1_2_minus_L006
+		shortLabel 36_G0_Nucl_rep1_2_minus_L006
 		longLabel G0_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -458,7 +457,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel 37 _ G0_Nucl_rep2_1_plus_L007
+		shortLabel 37_G0_Nucl_rep2_1_plus_L007
 		longLabel G0_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -470,7 +469,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel 38 _ G0_Nucl_rep2_1_minus_L007
+		shortLabel 38_G0_Nucl_rep2_1_minus_L007
 		longLabel G0_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -482,7 +481,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel 39 _ G0_Nucl_rep2_2_plus_L008
+		shortLabel 39_G0_Nucl_rep2_2_plus_L008
 		longLabel G0_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -494,7 +493,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G0_Nucl_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G0_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel 40 _ G0_Nucl_rep2_2_minus_L008
+		shortLabel 40_G0_Nucl_rep2_2_minus_L008
 		longLabel G0_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
@@ -506,7 +505,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel 41 _ G1_Nucl_rep1_1_plus_L005
+		shortLabel 41_G1_Nucl_rep1_1_plus_L005
 		longLabel G1_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -518,7 +517,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel 42 _ G1_Nucl_rep1_1_minus_L005
+		shortLabel 42_G1_Nucl_rep1_1_minus_L005
 		longLabel G1_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -530,7 +529,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel 43 _ G1_Nucl_rep1_2_plus_L006
+		shortLabel 43_G1_Nucl_rep1_2_plus_L006
 		longLabel G1_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -542,7 +541,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel 44 _ G1_Nucl_rep1_2_minus_L006
+		shortLabel 44_G1_Nucl_rep1_2_minus_L006
 		longLabel G1_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -554,7 +553,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel 45 _ G1_Nucl_rep2_1_plus_L007
+		shortLabel 45_G1_Nucl_rep2_1_plus_L007
 		longLabel G1_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -566,7 +565,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel 46 _ G1_Nucl_rep2_1_minus_L007
+		shortLabel 46_G1_Nucl_rep2_1_minus_L007
 		longLabel G1_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -578,7 +577,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel 47 _ G1_Nucl_rep2_2_plus_L008
+		shortLabel 47_G1_Nucl_rep2_2_plus_L008
 		longLabel G1_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -590,7 +589,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G1_Nucl_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G1_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel 48 _ G1_Nucl_rep2_2_minus_L008
+		shortLabel 48_G1_Nucl_rep2_2_minus_L008
 		longLabel G1_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
@@ -602,7 +601,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel 49 _ S_Nucl_rep1_1_plus_L005
+		shortLabel 49_S_Nucl_rep1_1_plus_L005
 		longLabel S_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -614,7 +613,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel 50 _ S_Nucl_rep1_1_minus_L005
+		shortLabel 50_S_Nucl_rep1_1_minus_L005
 		longLabel S_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -626,7 +625,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel 51 _ S_Nucl_rep1_2_plus_L006
+		shortLabel 51_S_Nucl_rep1_2_plus_L006
 		longLabel S_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -638,7 +637,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel 52 _ S_Nucl_rep1_2_minus_L006
+		shortLabel 52_S_Nucl_rep1_2_minus_L006
 		longLabel S_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -650,7 +649,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel 53 _ S_Nucl_rep2_1_plus_L007
+		shortLabel 53_S_Nucl_rep2_1_plus_L007
 		longLabel S_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -662,7 +661,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel 54 _ S_Nucl_rep2_1_minus_L007
+		shortLabel 54_S_Nucl_rep2_1_minus_L007
 		longLabel S_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -674,7 +673,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel 55 _ S_Nucl_rep2_2_plus_L008
+		shortLabel 55_S_Nucl_rep2_2_plus_L008
 		longLabel S_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -686,7 +685,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track S_Nucl_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/S_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel 56 _ S_Nucl_rep2_2_minus_L008
+		shortLabel 56_S_Nucl_rep2_2_minus_L008
 		longLabel S_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
@@ -698,7 +697,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep1_1_plus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_plus_L005_sorted.bw
-		shortLabel 57 _ G2_Nucl_rep1_1_plus_L005
+		shortLabel 57_G2_Nucl_rep1_1_plus_L005
 		longLabel G2_Nucl_rep1_1_plus_L005_sorted
 		type bigWig
 		color 0,0,255
@@ -710,7 +709,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep1_1_minus_L005_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_1_minus_L005_sorted.bw
-		shortLabel 58 _ G2_Nucl_rep1_1_minus_L005
+		shortLabel 58_G2_Nucl_rep1_1_minus_L005
 		longLabel G2_Nucl_rep1_1_minus_L005_sorted
 		type bigWig
 		color 255,0,0
@@ -722,7 +721,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep1_2_plus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_plus_L006_sorted.bw
-		shortLabel 59 _ G2_Nucl_rep1_2_plus_L006
+		shortLabel 59_G2_Nucl_rep1_2_plus_L006
 		longLabel G2_Nucl_rep1_2_plus_L006_sorted
 		type bigWig
 		color 0,0,255
@@ -734,7 +733,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep1_2_minus_L006_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep1_2_minus_L006_sorted.bw
-		shortLabel 60 _ G2_Nucl_rep1_2_minus_L006
+		shortLabel 60_G2_Nucl_rep1_2_minus_L006
 		longLabel G2_Nucl_rep1_2_minus_L006_sorted
 		type bigWig
 		color 255,0,0
@@ -746,7 +745,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep2_1_plus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_plus_L007_sorted.bw
-		shortLabel 61 _ G2_Nucl_rep2_1_plus_L007
+		shortLabel 61_G2_Nucl_rep2_1_plus_L007
 		longLabel G2_Nucl_rep2_1_plus_L007_sorted
 		type bigWig
 		color 0,0,255
@@ -758,7 +757,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep2_1_minus_L007_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_1_minus_L007_sorted.bw
-		shortLabel 62 _ G2_Nucl_rep2_1_minus_L007
+		shortLabel 62_G2_Nucl_rep2_1_minus_L007
 		longLabel G2_Nucl_rep2_1_minus_L007_sorted
 		type bigWig
 		color 255,0,0
@@ -770,7 +769,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep2_2_plus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_plus_L008_sorted.bw
-		shortLabel 63 _ G2_Nucl_rep2_2_plus_L008
+		shortLabel 63_G2_Nucl_rep2_2_plus_L008
 		longLabel G2_Nucl_rep2_2_plus_L008_sorted
 		type bigWig
 		color 0,0,255
@@ -782,7 +781,7 @@ sortOrder fraction=+ stage=- rep=+ strand=+
 
 		track G2_Nucl_rep2_2_minus_L008_sorted
 		bigDataUrl https://raw.githubusercontent.com/snikumbh/ccc_track_hub/main/hg38/G2_Nucl_rep2_2_minus_L008_sorted.bw
-		shortLabel 64 _ G2_Nucl_rep2_2_minus_L008
+		shortLabel 64_G2_Nucl_rep2_2_minus_L008
 		longLabel G2_Nucl_rep2_2_minus_L008_sorted
 		type bigWig
 		color 255,0,0
