@@ -1,4 +1,4 @@
-track CellCycleCageComposite
+track CellCycleCAGEComposite
 shortLabel Cell Cycle CAGE
 longLabel Cell Cycle CAGE
 type bigWig
